@@ -111,14 +111,16 @@ Choose and read one of the following of the sections of the *Zuozhuan*:
 
 Secondary Sources:
 
-*The Cambridge History of Ancient China* Ch 8: The Spring and Autumn Period
+Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 6: The Spring and Autumn Annals (~50)
 
-Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 6: The Spring and Autumn Annals
-
-Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 3: Writing the Past
+Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 3: Writing the Past (~45)
 
 Review your notes from *Oxford History*:  
 Vol 1: Ch 16 Chinese History and Philosophy, Ch 17 Pre-Qin Annals
+
+Reference: for an overview of the history of this period:
+
+*The Cambridge History of Ancient China* Ch 8: The Spring and Autumn Period
 
 ### Elective Reading
 
@@ -179,21 +181,20 @@ There are no shortage of ways to engage with the Spring and Autumn annals and it
 Primary Sources:
 
 Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty.   
-Shi Ji 6: The Basic Annals of the First Emperor of the Qin  
-Shi Ji 15: Reflections on the Rise of the Qin  
-Shi ji 86 Biographies of the Assasin-retainers  
+Shi Ji 6: The Basic Annals of the First Emperor of the Qin (~30)
+Shi Ji 15: Reflections on the Rise of the Qin (~3)
+Shi ji 86 Biographies of the Assasin-retainers  (~10)
 
 Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. Han Dynasty II [ACLS ebook](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/concern/monographs/r207tp65z?locale=en)
-Shi ji 29 The Treatise on the Yellow River and Canals (Skim)  
-Shi ji 125 Biographies of the Emperors' Male Favorites  
+Shi ji 29 The Treatise on the Yellow River and Canals (just skim)  
+Shi ji 125 Biographies of the Emperors' Male Favorites (~5)
 
 Secondary Sources:
 
-Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 2 Representing the World
+Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 2 Representing the World (~35)
 
-Watson, Burton *Ssu Ma Chien: Grand Historian of China* Ch 5 The Thought of Ssu-ma Ch'ien [on Archive.org](http://archive.org/details/ssumachiengrandh012602mbp)
+Watson, Burton *Ssu Ma Chien: Grand Historian of China* Ch 5 The Thought of Ssu-ma Ch'ien [on Archive.org](http://archive.org/details/ssumachiengrandh012602mbp) (~40)
 
-Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 4 Dying Fathers and Ch 6 Ideologue Versus Narrator
 
 Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 7: The Encyclopedic Epoch section 'Sima Qian and Universal History' pp308-317
 
@@ -209,6 +210,8 @@ Vol 1: Ch 19 Sima Qian and the Shiji
 5. Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 3-4 Microcosmic Reading I, II
 6. Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 5 Shaping the World + Ch 8 Understanding the World
 7. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 1 The Frustration of the Second Confucius, Ch 3 Sima QIan, the Six Arts, and the Spring and Autumn Annals
+8.Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 4 Dying Fathers
+9.Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 6 Ideologue Versus Narrator
 
 ### Further Reading
 
@@ -243,7 +246,7 @@ Yang, Lei. ‘Building Blocks of Chinese Historiography: A Narratological Analys
 
 ### Preparation
 
-[TBD]
+Please continue to work on your long essay ideas. Your essay prospectus will be due soon. 
 
 \pagebreak
 
@@ -259,17 +262,15 @@ Ch 21 Strategems of the Warring States pp139-149
 Ch 22 Biographies of Women pp149-162  
 
 Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. Han Dynasty I [ACLS ebook](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/concern/monographs/th83kz77f?locale=en)  
-[Shi Ji 9](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/0g354f53c?locale=en#/6/666[xhtml00000333]!/4/1:0) The Basic Annals of Empress Lü  
-[Shi Ji 49](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/0g354f53c?locale=en#/6/782[xhtml00000391]!/4/1:0) The Empresses: The Hereditary Houses: The Families Related to The Emperors by Marriage  
+[Shi Ji 9](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/0g354f53c?locale=en#/6/666[xhtml00000333]!/4/1:0) The Basic Annals of Empress Lü (~15)    
+[Shi Ji 49](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/0g354f53c?locale=en#/6/782[xhtml00000391]!/4/1:0) The Empresses: The Hereditary Houses: The Families Related to The Emperors by Marriage (~15)  
 
 Secondary Sources:
 
-Raphals, Lisa *Sharing the Light: Representations of Women and Virtue in Early China* (1998) (P)  
+Raphals, Lisa *Sharing the Light: Representations of Women and Virtue in Early China* (1998) (P) (~70)
 Ch 1 Women as Agents of Virtue and Destruction  
 Ch 2 Women as Prescient Counselors  
 Ch 3 Demonic Beauties and Usurpatious Regents  
-
-Li, Wai-yee. *The Readability of the Past in Early Chinese Historiography* (P). Ch 2 Signs and Causality section 'Women' pp147-160
 
 Ess, Hans van. ‘Praise and Slander: The Evocation of Empress Lü in the Shiji and the Hanshu’. *NAN NÜ* 8, no. 2 (1 January 2006): 221–54.
 
@@ -284,6 +285,7 @@ Ess, Hans van. ‘Praise and Slander: The Evocation of Empress Lü in the Shiji 
 7. Kim, Youngmin, and Michael J. Pettid. 'Versions and Subversions: Patriarchy and Polygamy in Korean Narratives'. In *Women and Confucianism in Choson Korea: New Perspectives*. SUNY Press, 2011. 
 8. Chaffee, John. ‘The Rise and Regency of Empress Liu (969—1033)’. *Journal of Song-Yuan Studies*, no. 31 (2001): 1–25.
 9. McMahon, Keith. ‘Women Rulers in Imperial China’. *NAN NÜ* 15, no. 2 (1 January 2013): 179–218. 
+10. Li, Wai-yee. *The Readability of the Past in Early Chinese Historiography* (P). Ch 2 Signs and Causality section 'Women' pp147-160
 
 ### Further Reading
 
@@ -339,7 +341,7 @@ Zurndorfer, Harriet Thelma. *Chinese Women in the Imperial Past: New Perspective
 
 ### Preparation
 
-[TBD]
+Now that your prospectus for your long essay has been submitted, deepen your reading around your essay. Consider having done one or two of your blog entries by this week. It makes sense to get them out of the way earlier in the semester so you don't become overwhelmed as the long essay deadline approaches. 
 
 \pagebreak
 
@@ -350,7 +352,7 @@ Zurndorfer, Harriet Thelma. *Chinese Women in the Imperial Past: New Perspective
 Primary Sources:
 
 Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. Han Dynasty Vol 2 [ACLS ebook](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/concern/monographs/r207tp65z?locale=en)  
-[Shi Ji 110](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/6969z115b?locale=en#/6/290[xhtml00000145]!/4/1:0) The Account of the Xiongnu
+[Shi Ji 110](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/6969z115b?locale=en#/6/290[xhtml00000145]!/4/1:0) The Account of the Xiongnu (~35)  
 
 Read one of the following:  
 [Shi Ji 114](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/6969z115b?locale=en#/6/470[xhtml00000235]!/4/1:0) The Account of Eastern Yue  
@@ -403,7 +405,7 @@ Zhi, Chen. ‘From Exclusive Xia to Inclusive Zhu-Xia: The Conceptualisation of 
 
 ### Preparation
 
-[TBD]
+You should be getting your prospectus feedback this week. Think ahead about how you will be using the independent learning week to make progress on the long essay. Are any inter-library loan books you need already requested? 
 
 ## Week 6 Independent Learning Week
 
@@ -498,7 +500,10 @@ Keene, Donald. *Seeds in the Heart: Japanese Literature from Earliest Times to t
 
 ### Preparation
 
-[TBD]
+As you prepare for class, think about the ways in which fictional or rather  fictionalised works that recount the past play a disproportionately large importance in terms of how many think about what transpired historically. 
+
+Consider beginning the writing process for your long essay. Are there easy sections you already have the material ready for that you can get out of the way? Is the historiographical background something you can get started with? 
+
 
 \pagebreak
 
@@ -650,7 +655,9 @@ Zarrow, Peter. 'Old Myth into New History: The Building Blocks of Liang Qichao's
 
 ### Preparation
 
-[TBD]
+I would suggest that you finish up your blog entries early so you can dedicate your time to tutorial preparation and the long essay at this point without distraction. 
+
+As you read for this week, ask yourself how some of the processes discussed in these readings are distinctive or share features with other transitions in historical writing during the emergence of modern states.
 
 \pagebreak
 
@@ -724,7 +731,9 @@ Wang, Q. Edward, and Georg G. Iggers. *Marxist Historiographies: A Global Perspe
 
 ### Preparation
 
-[TBD]
+As you read for this week, think about the ways in which Marxist approaches to history navigate the challenges of the universal and the particular in terms of the national experience of transformation over time.
+
+If you have a portion of your long essay written, consider visiting office hours and sharing a few paragraphs with me for comment during our discussion. Or else bring an outline to share.
 
 \pagebreak
 
@@ -763,6 +772,8 @@ Kikuchi, Yuko. *Japanese Modernisation and Mingei Theory: Cultural Nationalism a
 Brandt, Kim. *Kingdom of Beauty: Mingei and the Politics of Folk Art in Imperial Japan*. Duke University Press Books, 2007. (P)
 
 ### Preparation
+
+As you read for this week, think back to our week on the self and other in imperial China. Are the stakes different in this period, and if so how? 
 
 \pagebreak
 
@@ -902,7 +913,7 @@ Yang, Daqing, and Mike Mochizuki. *Memory, Identity, and Commemorations of World
 
 ### Preparation
 
-[TBD]
+Many of the elective readings for this week are related to textbooks. What are some of the distinctive features of history textbooks, if any?
 
 ## Starting Points for Long Essay Research
 

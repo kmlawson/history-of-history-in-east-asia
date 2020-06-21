@@ -4,8 +4,8 @@
 
 This module, which has no final exam, is designed to provide you flexibility in your learning, while also providing themes that enable us to have rich seminar discussion. It is important that you come to tutorial well prepared as you will be expected to know the materials well. Your preparation for each week will require the usual 15-20 hours of work, and I suggest you **divide the preparation time across three days**. Your reading and research each week is comprised of:
 
-1) Core readings that all students are required to read, usually around 100 pages (3-5 hours)
-2) Additional required 'elective' reading that is selected by the student from several options provided. You must choose one category of readings to prepare and provide an elective reading handout. (4-7 hours)
+1) Core readings that all students are required to read, usually around 150-200 pages (4-8 hours)
+2) Additional required 'elective' reading that is selected by the student from several options provided. You must choose one category of readings to prepare and provide an elective reading handout. Usually less than 50 pages. (2-4 hours)
 3) Each week you should do further reading in the general area of your long essay, do other research or writing towards the prospectus, long essay, or work on your blog entries and presentation preparation. (3-8 hours)
 
 **Elective Reading Handout**

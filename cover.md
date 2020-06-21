@@ -8,6 +8,6 @@
 
 
 \textbf{Ban Zhao - Han dynasty historian and scholar. Completed the \textit{Book of Han}}
-\\*Image from the \textit{Wushuang Pu} (Catalogue of the Unparalleled), preface 1690
+\\*Image from the \textit{Wushuang Pu} (Catalogue of Peerless Figures), preface 1690
 
 \end{center}
