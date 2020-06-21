@@ -29,8 +29,8 @@ This module provides is a selective thematic survey on the evolving approaches t
 ### Assessment Summary
 
 10% Essay Abstract and Annotated Bibliography – 500 words   
-20% Blog Entries – minimum 4 postings minimum 2,400 words  
-50% Long Essay – 5,000   
+20% Blog Entries – 4 postings together a minimum of 2,400 words  
+50% Long Essay – 5,000 words   
 20% Two Assessed Presentations 7 minutes each      
 
 *All submissions are by MMS and due before midnight*

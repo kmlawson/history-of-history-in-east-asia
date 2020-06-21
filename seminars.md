@@ -267,7 +267,7 @@ Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. Ha
 
 Secondary Sources:
 
-Raphals, Lisa *Sharing the Light: Representations of Women and Virtue in Early China* (1998) (P) (~70)
+Raphals, Lisa *Sharing the Light: Representations of Women and Virtue in Early China* (1998) (P) (~70)  
 Ch 1 Women as Agents of Virtue and Destruction  
 Ch 2 Women as Prescient Counselors  
 Ch 3 Demonic Beauties and Usurpatious Regents  
@@ -782,8 +782,8 @@ As you read for this week, think back to our week on the self and other in imper
 ### Required Reading
 
 Weigelin-Schwiedrzik, Susanne ed. *Broken Narratives: Post-Cold War History and Identity in Europe and East Asia*. BRILL, 2014.  
-Rewriting the History of Colonialism in South Korea  
-Colonialism and Modernity in Taiwan: Reflections on Contemporary Taiwanese Historiography  
+-  Rewriting the History of Colonialism in South Korea  
+- Colonialism and Modernity in Taiwan: Reflections on Contemporary Taiwanese Historiography  
 
 Ceuster, Koen de. ‘The Nation Exorcised: The Historiography of Collaboration in South Korea’. *Korean Studies* 25, no. 2 (2001): 207–42.
 
