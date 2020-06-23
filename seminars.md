@@ -118,9 +118,15 @@ Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 3: Writing
 Review your notes from *Oxford History*:  
 Vol 1: Ch 16 Chinese History and Philosophy, Ch 17 Pre-Qin Annals
 
-Reference: for an overview of the history of this period:
+Reference: 
+
+The first few weeks leans heavily in the direction of Chinese history. If you feel a bit disoriented, you can get an overview of the history of this period here:
 
 *The Cambridge History of Ancient China* Ch 8: The Spring and Autumn Period
+
+There is also a fantastic reference manual that anyone with an interest in Chinese history should consider using:
+
+Wilkinson, Endymion Porter. *Chinese History: A Manual*. Fifth Edition. Harvard Univ Asia Center, 2018.  - A convenient digital version of the book can be purchased through the iOS and Android app [Pleco](https://www.pleco.com/).
 
 ### Elective Reading
 
@@ -143,6 +149,8 @@ Mair, Victor H. et al. *Hawaii Reader in Traditional Chinese Culture* (2005) - C
 Crump, James Irving. *Legends of the Warring States: Persuasions, Romances, and Stories from Chan-Kuo Tsʻe*. Center for Chinese Studies, The University of Michigan, 1998.
 
 Durrant, Stephen, Wai-yee Li, and David Schaberg, trans. *Zuo Tradition / Zuozhuan: Commentary on the ‘Spring and Autumn Annals’*. Slp Blg edition. Seattle: University of Washington Press, 2016.
+
+Leung, Vincent S. *The Politics of the Past in Early China*. Cambridge University Press, 2019.
 
 Lewis, Mark Edward *Writing and Authority in Early China* (1999) (P)
 
@@ -210,8 +218,9 @@ Vol 1: Ch 19 Sima Qian and the Shiji
 5. Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 3-4 Microcosmic Reading I, II
 6. Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 5 Shaping the World + Ch 8 Understanding the World
 7. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 1 The Frustration of the Second Confucius, Ch 3 Sima QIan, the Six Arts, and the Spring and Autumn Annals
-8.Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 4 Dying Fathers
-9.Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 6 Ideologue Versus Narrator
+8. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 4 Dying Fathers
+9. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 6 Ideologue Versus Narrator
+10. Leung, Vincent S. *The Politics of the Past in Early China*. Cambridge University Press, 2019. Ch 5 Sima Qian's Critical Past
 
 ### Further Reading
 
@@ -224,6 +233,8 @@ Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of 
 Durrant, Stephen W, Wai-yee Li, Michael Nylan, and Hans van Ess. *The Letter to Ren an and Sima Qian’s Legacy*, 2016.
  
 Ess, Hans van. ‘Recent Studies on Sima Qian’. Edited by Stephen W. Durrant. *Monumenta Serica* 49 (2001): 517–28.
+
+Ess, Hans van, Olga Lomová, and Dorothee Schaab-Hanke. *Views from Within, Views from Beyond: Approaches to the Shiji as an Early Work of Historiography*. Harrassowitz Verlag, 2015.
 
 Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) (P)
 
@@ -278,7 +289,7 @@ Ess, Hans van. ‘Praise and Slander: The Evocation of Empress Lü in the Shiji 
 
 1. Wang, Robin R. *Images of Women in Chinese Thought and Culture* (2003) Ch 32 The Ballad of Mulan + Don, Lan *Mulan's Legend and Legacy in China and the United States* Ch 2 Heroic Lineage: Military Women and Lady Knights-Errant in Premodern China
 2. Hinsch, Bret. ‘The Criticism of Powerful Women by Western Han Dynasty Portent Experts’. *Journal of the Economic and Social History of the Orient* 49, no. 1 (2006): 96–121.
-3. Wang, Robin R. *Images of Women in Chinese Thought and Culture* (2003)  Ch 33 Women in the Standard Histories
+3. Ebrey, Patricia Buckley, Ping Yao, and Cong Ellen Zhang. *Chinese Funerary Biographies: An Anthology of Remembered Lives*. University of Washington Press, 2020. Introduction + Ch 3 A Twice-Widowed Xianbei Princess
 4. Zheng, Xiucai. ‘From “Zuozhuan to Shiji”: Changes in Gender Representation in Sima Qian’s Rewriting of Stories’. *Chinese Literature: Essays, Articles, Reviews* (CLEAR) 36 (2014): 149–74.
 5. Kim, Youngmin, and Michael J. Pettid. ‘Representation of Females in Twelfth-Century Korean Historiography’. In *Women and Confucianism in Choson Korea: New Perspectives*
 6. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* (P) Ch 5 (Wo)men with(out) Names
@@ -286,6 +297,7 @@ Ess, Hans van. ‘Praise and Slander: The Evocation of Empress Lü in the Shiji 
 8. Chaffee, John. ‘The Rise and Regency of Empress Liu (969—1033)’. *Journal of Song-Yuan Studies*, no. 31 (2001): 1–25.
 9. McMahon, Keith. ‘Women Rulers in Imperial China’. *NAN NÜ* 15, no. 2 (1 January 2013): 179–218. 
 10. Li, Wai-yee. *The Readability of the Past in Early Chinese Historiography* (P). Ch 2 Signs and Causality section 'Women' pp147-160
+11. Wang, Robin R. *Images of Women in Chinese Thought and Culture* (2003)  Ch 33 Women in the Standard Histories
 
 ### Further Reading
 
@@ -294,6 +306,10 @@ Haboush, JaHyun Kim. *The Memoirs of Lady Hyegyong: The Autobiographical Writing
 *A Companion to Global Queenship*. Arc Humanities Press, 2018. 
 
 Davis, Richard L. 'Chaste and Filial Women in Chinese Historical Writings of the Eleventh Century'. *Journal of the American Oriental Society* 121, no. 2 (2001): 204--18. <https://doi.org/10.2307/606561>.
+
+Doran, Rebecca. *Transgressive Typologies: Constructions of Gender and Power in Early Tang China.* Harvard University Asia Center, 2016. (P)
+
+Ebrey, Patricia Buckley, Ping Yao, and Cong Ellen Zhang ed. *Chinese Funerary Biographies: An Anthology of Remembered Lives*. University of Washington Press, 2020. (P)
 
 Edwards, Louise. 'Women Warriors and Amazons of the Mid Qing Texts Jinghua Yuan and Honglou Meng'. *Modern Asian Studies* 29, no. 2 (1995): 225--55.
 
@@ -546,11 +562,14 @@ Wang, Q. Edward. *Inventing China through History: The May Fourth Approach to Hi
 2. Wang, Q. Edward. *Inventing China through History* Ch 3 Scientific Inquiry
 3. Wang, Q. Edward. *Inventing China through History* Ch 4 Equivalences and Differences
 4. Wang, Q. Edward. *Inventing China through History* Ch 5 Seeking China's National Identity
-5. Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* Ch 1 Introduction, Ch 2 Origins of the Modernization Narrative*
+5. Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* Ch 1 Introduction, Ch 2 Origins of the Modernization Narrative
 6. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity: The Historical Thinking of Liang Qichao* (P) Introduction + Ch 1 History Imagined Anew
 7. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 2 Nationalist Historian
 8. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 3 Nation and Revolution
 9. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 4 Modernity as Political Discourse
+10. Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China*. Ch 2 Bifurcating Linear Histories
+11. Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China* Sun Yat-sen: The Experience of Real and Narrative Closure pp133-139 in Ch 4 Secret Brotherhood + Ch 6 Provincial Narratives
+
 
 *Japan Focus:*
 
@@ -590,6 +609,8 @@ Brownlee, John S. *History in the Service of the Japanese Nation*. University of
 Chen, Hsi-Yuan. 'The Making of the Official Qing History and the Crisis of Traditional Chinese Historiography'. *Historiography East and West* 2, no. 2 (1 January 2004): 173--204. <https://doi.org/10.1163/157018606779068306>.
 
 Dirlik, Arif. 'Reversals, Ironies, Hegemonies: Notes on the Contemporary Historiography of Modern China'. *Modern China* 22, no. 3 (1996): 243--84.
+
+Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China*. University Of Chicago Press, 1997. (P)
 
 ---------. 'The Historiography of Colonial Modernity: Chinese History Between Eurocentric Hegemony and Nationalism'. *Journal of Modern Chinese History* 1, no. 1 (1 August 2007): 97--115. <https://doi.org/10.1080/17535650701521171>.
 
