@@ -111,9 +111,9 @@ Choose and read one of the following of the sections of the *Zuozhuan*:
 
 Secondary Sources:
 
-Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 6: The Spring and Autumn Annals (~50)
+Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 6: The Spring and Autumn Annals (~50) (see Files)
 
-Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 3: Writing the Past (~45)
+Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 3: Writing the Past (~45) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3109400)
 
 Review your notes from *Oxford History*:  
 Vol 1: Ch 16 Chinese History and Philosophy, Ch 17 Pre-Qin Annals
@@ -130,14 +130,15 @@ Wilkinson, Endymion Porter. *Chinese History: A Manual*. Fifth Edition. Harvard 
 
 ### Elective Reading
 
-1. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 1 The Rhetoric of Good Order
-2. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 5 The Anecdotal History
-3. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 8 Writing and the Ends of History
-4. Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 3 The Documents
-5. Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 2 The Odes
-6. Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Introduction: Anecdotes in Early China p1-40
-7. Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Ch 7 The Limits of Praise and Blame
-8. Denecke, Wiebke et al *The Oxford Handbook of Classical Chinese Literature* Ch 8 Text and Commentary: The Early Tradition + Ch 3 Histories (shi 史)
+1. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 1 The Rhetoric of Good Order [Library ebook](http://hdl.handle.net/2027/heb.09182)
+2. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 5 The Anecdotal History [Library ebook](http://hdl.handle.net/2027/heb.09182)
+3. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 8 Writing and the Ends of History [Library ebook](http://hdl.handle.net/2027/heb.09182)
+4. Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 3 The Documents (see Files)
+5. Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 2 The Odes (see Files)
+6. Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Introduction: Anecdotes in Early China p1-40 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3108589)
+7. Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Ch 7 The Limits of Praise and Blame [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3108589)
+8. Denecke, Wiebke et al *The Oxford Handbook of Classical Chinese Literature* Ch 8 Text and Commentary: The Early Tradition + Ch 3 Histories (shi 史) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2495377)
+9. Fitzgerald, Devin trans. *Shitong* [Ch 1 The Six Schools of History](https://devinfitz.com/translations/zhengtong-and-history/liu-zhiji-excerpt-from-the-comprehensive-perspectives-on-historiography-shi-tong-史通/)
 
 
 ### Further Reading
@@ -152,13 +153,14 @@ Durrant, Stephen, Wai-yee Li, and David Schaberg, trans. *Zuo Tradition / Zuozhu
 
 Leung, Vincent S. *The Politics of the Past in Early China*. Cambridge University Press, 2019.
 
-Lewis, Mark Edward *Writing and Authority in Early China* (1999) (P)
+Lewis, Mark Edward *Writing and Authority in Early China* (1999) (P) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3109400)
 
 Li, Wai-yee. *The Readability of the Past in Early Chinese Historiography*. Cambridge, Mass: Harvard University Asia Center, 2008. (P)
 
 Miller, H. *The Gongyang Commentary on The Spring and Autumn Annals: A Full Translation*. 1st ed. 2015 edition. Palgrave Macmillan, 2015.
 
-Ng, On Cho, and Q. Edward Wang. *Mirroring the Past: The Writing and Use of History in Imperial China*. Honolulu: University of Hawai’i Press, 2005.
+Ng, On Cho, and Q. Edward Wang. *Mirroring the Past: The Writing and Use of History in Imperial China*. Honolulu: University of Hawai’i Press, 2005. [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3081175)
+
 
 Nylan, Michael *The Five "Confucian" Classics* (2001) (P)
 
@@ -204,7 +206,7 @@ Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (
 Watson, Burton *Ssu Ma Chien: Grand Historian of China* Ch 5 The Thought of Ssu-ma Ch'ien [on Archive.org](http://archive.org/details/ssumachiengrandh012602mbp) (~40)
 
 
-Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 7: The Encyclopedic Epoch section 'Sima Qian and Universal History' pp308-317
+Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 7: The Encyclopedic Epoch section 'Sima Qian and Universal History' pp308-317 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3109400)
 
 Review your notes from the *Oxford History*:  
 Vol 1: Ch 19 Sima Qian and the Shiji   
@@ -212,15 +214,15 @@ Vol 1: Ch 19 Sima Qian and the Shiji
 ### Elective Reading
 
 1. Nylan, Michael. ‘Sima Qian: A True Historian?’ *Early China* 23/24 (1998): 203–46.
-2. Shankman, Steven, and Stephen W Durrant. *The Siren and the Sage: Knowledge and Wisdom in Ancient Greece and China* (2003) Part II:1-4 Before and After Philosophy: Thucydides and Sima Qian p79-145
+2. Shankman, Steven, and Stephen W Durrant. *The Siren and the Sage: Knowledge and Wisdom in Ancient Greece and China* (2003) Part II:1-4 Before and After Philosophy: Thucydides and Sima Qian p79-145 (see Files)
 3. Stuurman, Siep. ‘Herodotus and Sima Qian: History and the Anthropological Turn in Ancient Greece and Han China’. *Journal of World History* 19, no. 1 (2008): 1–40.
-4. Ng, On Cho, and Q. Edward Wang. *Mirroring the Past: The Writing and Use of History in Imperial China* Ch 2 From the Warring States Period to the Han
-5. Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 3-4 Microcosmic Reading I, II
-6. Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 5 Shaping the World + Ch 8 Understanding the World
-7. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 1 The Frustration of the Second Confucius, Ch 3 Sima QIan, the Six Arts, and the Spring and Autumn Annals
-8. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 4 Dying Fathers
-9. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 6 Ideologue Versus Narrator
-10. Leung, Vincent S. *The Politics of the Past in Early China*. Cambridge University Press, 2019. Ch 5 Sima Qian's Critical Past
+4. Ng, On Cho, and Q. Edward Wang. *Mirroring the Past: The Writing and Use of History in Imperial China* Ch 2 From the Warring States Period to the Han [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3081175)
+5. Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 3-4 Microcosmic Reading I, II (see Files)
+6. Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 5 Shaping the World + Ch 8 Understanding the World (see Files)
+7. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 1 The Frustration of the Second Confucius, Ch 3 Sima QIan, the Six Arts, and the Spring and Autumn Annals (see Files)
+8. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 4 Dying Fathers (see Files)
+9. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* Ch 6 Ideologue Versus Narrator (see Files)
+10. Leung, Vincent S. *The Politics of the Past in Early China*. Cambridge University Press, 2019. Ch 5 Sima Qian's Critical Past [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3064271)
 
 ### Further Reading
 
@@ -228,7 +230,7 @@ Consider continuing to read the books we have been reading above.
 
 Burton Watson. *Ssu Ma Chien Grand Historian Of China*. Columbia University Press, 1958. http://archive.org/details/ssumachiengrandh012602mbp. (P)
 
-Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* (P)
+Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* (P) (see Files)
 
 Durrant, Stephen W, Wai-yee Li, Michael Nylan, and Hans van Ess. *The Letter to Ren an and Sima Qian’s Legacy*, 2016.
  
@@ -278,7 +280,7 @@ Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. Ha
 
 Secondary Sources:
 
-Raphals, Lisa *Sharing the Light: Representations of Women and Virtue in Early China* (1998) (P) (~70)  
+Raphals, Lisa *Sharing the Light: Representations of Women and Virtue in Early China* (1998) (P) (~70)  [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3108602)  
 Ch 1 Women as Agents of Virtue and Destruction  
 Ch 2 Women as Prescient Counselors  
 Ch 3 Demonic Beauties and Usurpatious Regents  
@@ -289,14 +291,14 @@ Ess, Hans van. ‘Praise and Slander: The Evocation of Empress Lü in the Shiji 
 
 1. Wang, Robin R. *Images of Women in Chinese Thought and Culture* (2003) Ch 32 The Ballad of Mulan + Don, Lan *Mulan's Legend and Legacy in China and the United States* Ch 2 Heroic Lineage: Military Women and Lady Knights-Errant in Premodern China
 2. Hinsch, Bret. ‘The Criticism of Powerful Women by Western Han Dynasty Portent Experts’. *Journal of the Economic and Social History of the Orient* 49, no. 1 (2006): 96–121.
-3. Ebrey, Patricia Buckley, Ping Yao, and Cong Ellen Zhang. *Chinese Funerary Biographies: An Anthology of Remembered Lives*. University of Washington Press, 2020. Introduction + Ch 3 A Twice-Widowed Xianbei Princess
+3. Ebrey, Patricia Buckley, Ping Yao, and Cong Ellen Zhang. *Chinese Funerary Biographies: An Anthology of Remembered Lives*. University of Washington Press, 2020. Introduction + Ch 3 A Twice-Widowed Xianbei Princess [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009700)
 4. Zheng, Xiucai. ‘From “Zuozhuan to Shiji”: Changes in Gender Representation in Sima Qian’s Rewriting of Stories’. *Chinese Literature: Essays, Articles, Reviews* (CLEAR) 36 (2014): 149–74.
-5. Kim, Youngmin, and Michael J. Pettid. ‘Representation of Females in Twelfth-Century Korean Historiography’. In *Women and Confucianism in Choson Korea: New Perspectives*
-6. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* (P) Ch 5 (Wo)men with(out) Names
-7. Kim, Youngmin, and Michael J. Pettid. 'Versions and Subversions: Patriarchy and Polygamy in Korean Narratives'. In *Women and Confucianism in Choson Korea: New Perspectives*. SUNY Press, 2011. 
+5. Kim, Youngmin, and Michael J. Pettid. ‘Representation of Females in Twelfth-Century Korean Historiography’. In *Women and Confucianism in Choson Korea: New Perspectives* (see Files)
+6. Durrant, Stephen W. *The Cloudy Mirror: Tension and Conflict in the Writings of Sima Qian* (P) Ch 5 (Wo)men with(out) Names (see Files)
+7. Kim, Youngmin, and Michael J. Pettid. 'Versions and Subversions: Patriarchy and Polygamy in Korean Narratives'. In *Women and Confucianism in Choson Korea: New Perspectives*. SUNY Press, 2011. (see Files)
 8. Chaffee, John. ‘The Rise and Regency of Empress Liu (969—1033)’. *Journal of Song-Yuan Studies*, no. 31 (2001): 1–25.
 9. McMahon, Keith. ‘Women Rulers in Imperial China’. *NAN NÜ* 15, no. 2 (1 January 2013): 179–218. 
-10. Li, Wai-yee. *The Readability of the Past in Early Chinese Historiography* (P). Ch 2 Signs and Causality section 'Women' pp147-160
+10. Li, Wai-yee. *The Readability of the Past in Early Chinese Historiography* (P). Ch 2 Signs and Causality section 'Women' pp147-160 (see Files)
 11. Wang, Robin R. *Images of Women in Chinese Thought and Culture* (2003)  Ch 33 Women in the Standard Histories
 
 ### Further Reading
@@ -309,7 +311,7 @@ Davis, Richard L. 'Chaste and Filial Women in Chinese Historical Writings of the
 
 Doran, Rebecca. *Transgressive Typologies: Constructions of Gender and Power in Early Tang China.* Harvard University Asia Center, 2016. (P)
 
-Ebrey, Patricia Buckley, Ping Yao, and Cong Ellen Zhang ed. *Chinese Funerary Biographies: An Anthology of Remembered Lives*. University of Washington Press, 2020. (P)
+Ebrey, Patricia Buckley, Ping Yao, and Cong Ellen Zhang ed. *Chinese Funerary Biographies: An Anthology of Remembered Lives*. University of Washington Press, 2020. (P) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009700)
 
 Edwards, Louise. 'Women Warriors and Amazons of the Mid Qing Texts Jinghua Yuan and Honglou Meng'. *Modern Asian Studies* 29, no. 2 (1995): 225--55.
 
@@ -343,7 +345,7 @@ McMahon, Keith. *Women Shall Not Rule: Imperial Wives and Concubines in China fr
 
 Queen, Sarah. 'Beyond Liu Xiang's Gaze: Debating Womanly Virtue in Ancient China'. *Asia Major* 29, no. 2 (2016): 7--46.
 
-Raphals, Lisa *Sharing the Light: Representations of Women and Virtue in Early China* (1998)  (P)
+Raphals, Lisa *Sharing the Light: Representations of Women and Virtue in Early China* (1998)  (P) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3108602)
 
 Rothschild, N. Harry. *Emperor Wu Zhao and Her Pantheon of Devis, Divinities, and Dynastic Mothers*. Columbia University Press, 2015. (P)
 
@@ -378,13 +380,13 @@ Read one of the following:
 
 Secondary Sources:
 
-Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 4 Order in the Human World section 'Cultural Others' pp130-135
+Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 4 Order in the Human World section 'Cultural Others' pp130-135 [Library ebook](http://hdl.handle.net/2027/heb.09182)
 
 Di Cosmo, Nicola. *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History*. Ch 3 Beasts and Birds: The Historical Context of Early Chinese Perceptions of the Northern Peoples ([ACLS Ebook](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/gt54kn65w?locale=en#/6/206[xhtml00000103]!/4/1:0))
 
-Yuri Pines, "Beasts or Humans: Pre-Imperial Origins of the “Sino-Barbarian” Dichotomy," in *Mongols, Turks, and Others: Eurasian Nomads and the Sedentary World*, ed. Reuven Amitai and Michal Biran (Leiden: Brill, 2005),
+Yuri Pines, "Beasts or Humans: Pre-Imperial Origins of the “Sino-Barbarian” Dichotomy," in *Mongols, Turks, and Others: Eurasian Nomads and the Sedentary World*, ed. Reuven Amitai and Michal Biran (Leiden: Brill, 2005), [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2009944)
 
-Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Ch 4 Anecdotal Barbarians in Early China
+Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Ch 4 Anecdotal Barbarians in Early China [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3108589)
 
 Wang, Edward Q., "History, Space, and Ethnicity: The Chinese Worldview," *Journal of World History* 10, no. 2 (1999).
 
@@ -439,7 +441,7 @@ In most years students will have a collective choice on which of these two key t
 
 Primary Sources:
 
-Roberts, Moss *Three Kingdoms: A Historical Novel Complete and Unabridged* University of California Press, 2004 (Two volume version).  
+Roberts, Moss *Three Kingdoms: A Historical Novel Complete and Unabridged* University of California Press, 2004 (Two volume version). [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009698)  
 Ch 1 Three Bold Spirits Plight Mutual Faith in the Peach Garden; Heroes and Champions Win First Honors Fighting the Yellow Scarves  
 Ch 27 The Man of the Magnificent Beard Rides Alone a Thousand Li; The Lord of Hanshou Slays Six Generals and Breaches Five Passes  
 Ch 38 Still Water Recommends Another Noted Scholar; Liu Xuande Pays Three Visits to Zhuge Liang  
@@ -451,9 +453,9 @@ Secondary Sources:
 
 Roberts, Moss *Three Kingdoms: A Historical Novel Complete and Unabridged* University of California Press, 2004 (Two volume version). Afterward: About Three Kingdoms pp937-979
 
-Wang, Q. Edward, et al *The Many Faces of Clio: Cross-Cultural Approaches to Historiography, Essays in Honor of Georg G. Iggers* Ch 12 Time and Space in Chinese Historiography: Concepts of Centrality in the History and Literature of the Three Kingdoms
+Wang, Q. Edward, et al *The Many Faces of Clio: Cross-Cultural Approaches to Historiography, Essays in Honor of Georg G. Iggers* Ch 12 Time and Space in Chinese Historiography: Concepts of Centrality in the History and Literature of the Three Kingdoms (see Files)
 
-Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*.  
+Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. (see Files)  
 Introduction  
 
 
@@ -461,13 +463,13 @@ Introduction
 
 1. Hsia, C. T. *The Classic Chinese Novel : A Critical Introduction* Ch 2 The Romance of the Three Kingdoms
 2. Idema, Wilt L. and Stephen H. West trans. *Records of the Three Kingdoms in Plain Language* Introduction
-3. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*.  Ch 1 Cosmic Foreordination + Ch 2 Essential Regrets: The Structure of Tragic Consciousness in Three Kingdoms
-4. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture* Ch 3 Notion of Appropriateness + Ch 6 Zhuge Liang and Zhang Fei Bowang shao tun and Competing Masculine Ideals within the Development of the Three Kingdoms Story Cycle
-5. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 4 The Beginning of the End The Fall of the Han and the Opening of Three Kingdoms
-6. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 9 From Three Kingdoms the Novel to Three Kingdoms the Television Series 
-7. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 10 The Reception and the Place of Three Kingdoms in South Korea
-8. Denecke, Wiebke et al *The Oxford Handbook of Classical Chinese Literature* Ch 17 Elite versus Popular Literature + Ch 18 Narrative Genres
-9. McLaren, Anne E. ‘Challenging Official History in the Song and Yuan Dynasties: The Record of the Three Kingdoms’. In *Knowledge and Text Production in an Age of Print: China, 900-1400*, edited by Lucille Chia and Hilde de Weerdt. BRILL, 2011.
+3. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*.  Ch 1 Cosmic Foreordination + Ch 2 Essential Regrets: The Structure of Tragic Consciousness in Three Kingdoms (see Files)
+4. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture* Ch 3 Notion of Appropriateness + Ch 6 Zhuge Liang and Zhang Fei Bowang shao tun and Competing Masculine Ideals within the Development of the Three Kingdoms Story Cycle (see Files)
+5. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 4 The Beginning of the End The Fall of the Han and the Opening of Three Kingdoms (see Files)
+6. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 9 From Three Kingdoms the Novel to Three Kingdoms the Television Series (see Files)
+7. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 10 The Reception and the Place of Three Kingdoms in South Korea (see Files)
+8. Denecke, Wiebke et al *The Oxford Handbook of Classical Chinese Literature* Ch 17 Elite versus Popular Literature + Ch 18 Narrative Genres [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2495377)
+9. McLaren, Anne E. ‘Challenging Official History in the Song and Yuan Dynasties: The Record of the Three Kingdoms’. In *Knowledge and Text Production in an Age of Print: China, 900-1400*, edited by Lucille Chia and Hilde de Weerdt. BRILL, 2011. (see Files)
  
 
 ### Further Reading
@@ -488,7 +490,7 @@ Haar, B. J. ter. *Guan Yu: The Religious Afterlife of a Failed Hero.* Oxford Uni
 
 Idema, Wilt L., and Stephen H. West. *Battles, Betrayals, and Brotherhood: Early Chinese Plays on the Three Kingdoms.* Hackett Publishing, 2012. (P)
 
-McLaren, Anne E. ‘Challenging Official History in the Song and Yuan Dynasties: The Record of the Three Kingdoms’. In *Knowledge and Text Production in an Age of Print: China, 900-1400*, edited by Lucille Chia and Hilde de Weerdt. BRILL, 2011.
+McLaren, Anne E. ‘Challenging Official History in the Song and Yuan Dynasties: The Record of the Three Kingdoms’. In *Knowledge and Text Production in an Age of Print: China, 900-1400*, edited by Lucille Chia and Hilde de Weerdt. BRILL, 2011. (see Files)
 
 Pingyuan, Chen. *A History of Chinese Martial Arts Fiction.* Cambridge University Press, 2016. (P)
 
@@ -533,16 +535,16 @@ Primary Source:
 
 Secondary Sources:
 
-Schmid, Andre *Korea Between Empires*   
+Schmid, Andre *Korea Between Empires* [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb1941003)  
 Ch 2 Decentering the Middle Kingdom  
 Ch 5 Narrating the Ethnic Nation  
 
-Pai, Hyung Il. *Constructing ‘Korean’ Origins: A Critical Review of Archaeology, Historiography, and Racial Myth in Korean State-Formation Theories* pp1-12 Nationalist Historiography section in Ch 1 The Formation of Korean Identity 
+Pai, Hyung Il. *Constructing ‘Korean’ Origins: A Critical Review of Archaeology, Historiography, and Racial Myth in Korean State-Formation Theories* pp1-12 Nationalist Historiography section in Ch 1 The Formation of Korean Identity  [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009703)  
 
-Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea* (P)   
+Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea* (P)   [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)  
 Ch 3 Nationalizing Korea's Past  
 
-Tikhonov, V. M. *Social Darwinism and Nationalism in Korea - The Beginnings, 1883-1910: Survival as an Ideology of Korean Modernity* (P) pp147-162 starting from National Spirit, National History, National Survival in Ch 6 Knowledge is Strength
+Tikhonov, V. M. *Social Darwinism and Nationalism in Korea - The Beginnings, 1883-1910: Survival as an Ideology of Korean Modernity* (P) pp147-162 starting from National Spirit, National History, National Survival in Ch 6 Knowledge is Strength [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2022651)  
 
 Review your notes from *Oxford History*:  
 Vol 3: Ch 4 A Social History of Japanese Historical Writing; Ch 5 Writing History in Pre-Modern Korea  
@@ -562,7 +564,7 @@ Wang, Q. Edward. *Inventing China through History: The May Fourth Approach to Hi
 2. Wang, Q. Edward. *Inventing China through History* Ch 3 Scientific Inquiry
 3. Wang, Q. Edward. *Inventing China through History* Ch 4 Equivalences and Differences
 4. Wang, Q. Edward. *Inventing China through History* Ch 5 Seeking China's National Identity
-5. Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* Ch 1 Introduction, Ch 2 Origins of the Modernization Narrative
+5. Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* Ch 1 Introduction, Ch 2 Origins of the Modernization Narrative [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
 6. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity: The Historical Thinking of Liang Qichao* (P) Introduction + Ch 1 History Imagined Anew
 7. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 2 Nationalist Historian
 8. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 3 Nation and Revolution
@@ -614,7 +616,7 @@ Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of M
 
 ---------. 'The Historiography of Colonial Modernity: Chinese History Between Eurocentric Hegemony and Nationalism'. *Journal of Modern Chinese History* 1, no. 1 (1 August 2007): 97--115. <https://doi.org/10.1080/17535650701521171>.
 
-Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*. Duke University Press, 2013. (P)
+Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*. Duke University Press, 2013. (P) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)
 
 Fukuzawa, Yukichi. *An Outline of a Theory of Civilization*. Columbia University Press, 2009. (P)
 
@@ -632,7 +634,7 @@ Keirstead, Thomas. 'Inventing Medieval Japan: The History and Politics of Nation
 
 Kwong, Luke S. K. 'The Rise of the Linear Perspective on History and Time in Late Qing China c. 1860-1911'. *Past & Present*, no. 173 (2001): 157--90.
 
-Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing*. University of Hawaiʻi Press, 2013. (P)
+Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing*. University of Hawaiʻi Press, 2013. (P) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
 
 Mehl, Margaret. *History and the State in Nineteenth-Century Japan*. Macmillan, 1998. (P)
 
@@ -644,7 +646,7 @@ Morier-Genoud, Damien. 'Taiwanese Historiography. Towards a "Scholarly Native Hi
 
 Murthy, Viren, and Axel Schneider, eds. *The Challenge of Linear Time: Nationhood and the Politics of History in East Asia*. BRILL, 2013. (P)
 
-Pai, Hyung Il. *Constructing 'Korean' Origins: A Critical Review of Archaeology, Historiography, and Racial Myth in Korean State-Formation Theories*. Cambridge, Mass.; London: Harvard University Press, 2000. (P)
+Pai, Hyung Il. *Constructing 'Korean' Origins: A Critical Review of Archaeology, Historiography, and Racial Myth in Korean State-Formation Theories*. Cambridge, Mass.; London: Harvard University Press, 2000. (P) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009703)
 
 Robinson, Michael. 'National Identity and the Thought of Sin Ch'aeho: Sadaejuŭi and Chuch'e in History and Politics'. *The Journal of Korean Studies* 5 (1984): 121--42.
 
@@ -686,13 +688,13 @@ As you read for this week, ask yourself how some of the processes discussed in t
 
 ### Required Reading
 
-Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* (P) Ch 3 Origins of the Revolutionary Narrative + Ch 4 The Making of a New Orthodoxy
+Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* (P) Ch 3 Origins of the Revolutionary Narrative + Ch 4 The Making of a New Orthodoxy [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)  
 
-Barshay, Andrew E. *The Social Sciences in Modern Japan: The Marxian and Modernist Traditions* (P) Ch 3 Doubly Cruel: Marxism and the Presence of the Past in Japanese Capitalism
+Barshay, Andrew E. *The Social Sciences in Modern Japan: The Marxian and Modernist Traditions* (P) Ch 3 Doubly Cruel: Marxism and the Presence of the Past in Japanese Capitalism [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2068602)
 
 Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* (P) Ch 2 Marxist History and the Ethnic Nation during the 1930s
 
-Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*  Ch 4 Universalizing Korea's Past 
+Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*  Ch 4 Universalizing Korea's Past [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)  
 
 Tikhonov, Vladimir. ‘Demystifying the Nation: The Communist Concept of Ethno-Nation in 1920s–1930s Korea’. *Cross-Currents: East Asian History and Culture Review* 7, no. 2 (2018): 474–503 
 
@@ -701,10 +703,10 @@ Vol 5: Ch 30 Chinese Historical Writing since 1949
 
 ### Elective Reading
 
-1. Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* Ch 5 Between Past and the Present
-2. Li, Huaiyin. *Reinventing Modern China* Ch 6 Challenging the Revolutionary Orthodoxy
-3. Li, Huaiyin. *Reinventing Modern China* Ch 7 From Revolution to Modernization
-4. Li, Huaiyin. *Reinventing Modern China* Ch 8 Master Narratives in Crisis + Conclusion
+1. Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* Ch 5 Between Past and the Present [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
+2. Li, Huaiyin. *Reinventing Modern China* Ch 6 Challenging the Revolutionary Orthodoxy [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
+3. Li, Huaiyin. *Reinventing Modern China* Ch 7 From Revolution to Modernization [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
+4. Li, Huaiyin. *Reinventing Modern China* Ch 8 Master Narratives in Crisis + Conclusion [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
 5. Wang, Q. Edward. ‘Between Marxism and Nationalism: Chinese Historiography and the Soviet Influence, 1949-1963’. *Journal of Contemporary China* 9, no. 23 (1 March 2000): 95–111.
 6. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 1 National Imagery and International Marxism
 7. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 3 Rebuiding Marxist History
@@ -734,7 +736,7 @@ Hoston, Germaine A. *Marxism and the Crisis of Development in Prewar Japan*. Pri
 
 Koschmann, J. Victor. *Revolution and Subjectivity in Postwar Japan*. Chicago: University of Chicago Press, 1996. (P)
 
-Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing*. University of Hawaiʻi Press, 2013. (P)
+Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing*. University of Hawaiʻi Press, 2013. (P) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
 
 Schmidt-Glintzer, Helwig, Achim Mittag, and Jörn Rüsen. *Historical Truth, Historical Criticism, and Ideology: Chinese Historiography and Historical Culture from a New Comparative Perspective*. Brill, 2005.
 
@@ -764,12 +766,12 @@ If you have a portion of your long essay written, consider visiting office hours
 
 Kang, Sangjung. ‘The Discovery of the “Orient” and Orientalism’. In *Contemporary Japanese Thought* edited by Richard Calichman. 
 
-Tanaka, Stefan. *Japan's Orient: Rendering Pasts into History*. (P) New Ed edition. Berkeley: University of California Press, 1995.   
+Tanaka, Stefan. *Japan's Orient: Rendering Pasts into History*. (P) New Ed edition. Berkeley: University of California Press, 1995. [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)  
 Introduction
 Ch 1 From Kangaku to Tōyōshi
 Ch 2 Tōyōshi: The Convergence of East and West
 
-Yoshikawa, Lisa. *Making History Matter: Kuroita Katsumi and the Construction of Imperial Japan*. (P) Ch 5 Historians' Manifest Destiny, 1927-36
+Yoshikawa, Lisa. *Making History Matter: Kuroita Katsumi and the Construction of Imperial Japan*. (P) Ch 5 Historians' Manifest Destiny, 1927-36 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705)
 
 Miller, Owen. ‘The Idea of Stagnation in Korean Historiography from Fukuda Tokuzō to the New Right’. *Korean Histories* 2, no. 1 (2010): 3–12.
 
@@ -778,13 +780,13 @@ Miller, Owen. ‘The Idea of Stagnation in Korean Historiography from Fukuda Tok
 1. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 11 Eminent Historians in the 1930s + Ch 12 Commission of Inquiry + Ch 13 Tsuda Sōkichi
 2. Allen, Chizuko T. ‘Ch’oe Namsŏn at the Height of Japanese Imperialism’. *Sunkyun Journal of East Asian Studies* 5, no. 1 (2005).
 3. Allen, Chizuko T. ‘Early Migrations, Conquests, and Common Ancestry: Theorizing Japanese Origins in Relation with Korea’. *Sunkyun Journal of East Asian Studies* 8, no. 1 (2008).
-4. Yoshikawa, Lisa. *Making History Matter* Ch 2 Resuscitating the Historical Field
-5. Yoshikawa, Lisa. *Making History Matter* Ch 3 Entrenching the Historical Field
-6. Yoshikawa, Lisa. *Making History Matter* Ch 4 History in Action
-7. Tanaka, Stefan. *Japan's Orient* Ch 3 Shina: Separation
-8. Tanaka, Stefan. *Japan's Orient* Ch 4 Shina: Narration
-9. Tanaka, Stefan. *Japan's Orient* Ch 5: Shina: Authorization
-10. Tanaka, Stefan. *Japan's Orient* Ch 6: Archeology
+4. Yoshikawa, Lisa. *Making History Matter* Ch 2 Resuscitating the Historical Field [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705) 
+5. Yoshikawa, Lisa. *Making History Matter* Ch 3 Entrenching the Historical Field [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705) 
+6. Yoshikawa, Lisa. *Making History Matter* Ch 4 History in Action [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705)
+7. Tanaka, Stefan. *Japan's Orient* Ch 3 Shina: Separation [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
+8. Tanaka, Stefan. *Japan's Orient* Ch 4 Shina: Narration [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
+9. Tanaka, Stefan. *Japan's Orient* Ch 5: Shina: Authorization [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
+10. Tanaka, Stefan. *Japan's Orient* Ch 6: Archeology [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
 
 ### Further Reading
 
@@ -810,9 +812,10 @@ Ceuster, Koen de. ‘The Nation Exorcised: The Historiography of Collaboration i
 
 Weigelin-Schwiedrzik, Susanne. ‘Trauma and Memory: The Case of the Great Famine in the People’s Republic of China (1959-1961)’. *Historiography East and West* 1, no. 1 (1 January 2003): 39–67. https://doi.org/10.1163/157018603763585249.
 
-Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*  Ch 5 Divided Sovereignty and South Korean Historiography
+Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*  Ch 5 Divided Sovereignty and South Korean Historiography [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)
 
-Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea: The Roles of Historians, Artists and Activists*. Introduction: History Wars in Postwar East Asia, 1945-2014
+
+Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea: The Roles of Historians, Artists and Activists*. Introduction: History Wars in Postwar East Asia, 1945-2014 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
 
 Review your notes from *Oxford History*:  
 Vol 5: Ch 31 Japanese Historical Writing
@@ -820,15 +823,15 @@ Vol 5: Ch 31 Japanese Historical Writing
 ### Elective Reading
 
 1. Tsutsui, William M. ed. *A Companion to Japanese History* Ch 24 Center and Periphery in Japanese Historical Studies
-2. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia: Divided Memories* Part I Ch 1 History textbooks, divided memories, and reconciliation
-3. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part I Ch 2 Comparative Excerpts...on Eight Historical Issues
-4. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV Ch 6 Writing History Textbooks
-5. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV Ch 7 Toward Pluralism?
-6. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV The War over Words
+2. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia: Divided Memories* Part I Ch 1 History textbooks, divided memories, and reconciliation [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
+3. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part I Ch 2 Comparative Excerpts...on Eight Historical Issues [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
+4. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV Ch 6 Writing History Textbooks [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
+5. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV Ch 7 Toward Pluralism? [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
+6. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV The War over Words [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
 7. Em, Henry H. ‘“Overcoming” Korea’s Division: Narrative Strategies in Recent South Korean Historiography’. Positions: Asia Critique 1, no. 2 (1 May 1993): 450–85. https://doi.org/10.1215/10679847-1-2-450.
 8. Kim, Kyu Hyun. ‘Reflections on the Problems of Colonial Modernity and “Collaboration” in Modern Korean History’. Journal of International and Area Studies 11, no. 3 (2004): 95–111.
-9. Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea* Ch 1 Remembering Colonial Korea in Postwar Japan 
-10. Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea* Ch 3 The “East Asian History” Elective in Korean High Schools: An Attempt at Reflective Education in Transnational Space 
+9. Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea* Ch 1 Remembering Colonial Korea in Postwar Japan [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
+10. Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea* Ch 3 The “East Asian History” Elective in Korean High Schools: An Attempt at Reflective Education in Transnational Space [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
 
 ### Further Reading
 

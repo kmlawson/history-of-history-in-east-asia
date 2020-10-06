@@ -19,19 +19,18 @@
 ### Key Details
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
-**Meets:** Fall, 2019 - TBD  
-**Location:** TBD  
-**Office:** St. Katharine's Lodge B3  **Office Hours:** TBD  
+**Meets:** Fall, 2019 - Thursday 1-3pm  
+**Location:** UCO 31 or Online (Covid permitting)  
+**Office:** St. Katharine's Lodge B3  **Office Hours:** Tue 10-11am  
 
 ### Description
 This module provides is a selective thematic survey on the evolving approaches to history in East Asia across a broad chronology, with a focus on those states broadly impacted by the culture of what has been called the Sinosphere (today’s Japan, China, Taiwan, and the Korean peninsula). It introduces students to a variety of genres of historical writing, debates on historical methodology and, moving into more recent times, controversies related to historical narratives that have had profound impacts on domestic as well as international politics. Students will read examples of historical scholarship from the region in translation but also engage with a wider secondary scholarship on historiography, as well as encounter efforts to understand East Asian approaches to historical writing in a comparative context.  
 
 ### Assessment Summary
 
-10% Essay Abstract and Annotated Bibliography – 500 words   
-20% Blog Entries – 4 postings together a minimum of 2,400 words  
-50% Long Essay – 5,000 words   
-20% Two Assessed Presentations 7 minutes each      
+20% Blog Entries – 4 postings together a minimum of 2,400 words - 27 Nov  
+50% Long Essay – 5,000 words - 7 December   
+30% Two Assessed Presentations 15 minutes each      
 
 *All submissions are by MMS and due before midnight*
 
