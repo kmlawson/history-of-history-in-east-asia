@@ -40,10 +40,6 @@ You are welcome to bring a laptop to class and use it for notes and reading. If 
 
 Please do not to use applications on your laptop not related to our class, including email applications and social media. Obviously they will interfere with your own concentration but that is not the primary concern: using other applications on your laptop is a severe distraction to anyone sitting next to you.
 
-**Collective Notes**
-
-I believe in the benefits of sharing notes, not only with your classmates, but with future potential students of the class. For this purpose, I have created, and will provide the link for a Google document where you can post readings, organize reference material and online links to info and sources, etc. throughout the semester. I will also provide a link to notes from previous years (which may include some different readings and seminar topics). Both present and past years should be treated as you might any historical source: you should not use them to replace your own reading and note taking, and you should not treat content and notes provided by others as something you can uncritically accept as accurate. Use them as a productive supplement, as an alternative perspective as you conduct your own studies.
-
 **Academic Misconduct and Plagiarism**
 
 Academic integrity is fundamental to the values promoted by the University. It is important that all students are judged on their ability, and that no student is allowed unfairly to take an advantage over others, to affect the security and integrity of the assessment process, or to diminish the reliability and quality of a St Andrews degree. For more information on university policies see:

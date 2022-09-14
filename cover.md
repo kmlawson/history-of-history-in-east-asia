@@ -1,6 +1,6 @@
 % MO3055 The History of History in East Asia
 % Tutor: Konrad M. Lawson
-% Fall, 2020
+% Fall, 2022
 
 \begin{center}
 

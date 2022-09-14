@@ -2,19 +2,17 @@
 
 # Seminars
 
-**Please Note**: We have an online reading list for the module for your convenience but it is harder to read, is sometimes missing texts, and does not include specific tasks that I set for your preparation. Please make sure that you always work from this handbook as you prepare your readings but you can check for ebook versions etc. with the digital reading list. 
-
-*Again*: this handbook is the canonical version of your preparation guidelines. Please work from this handbook as you review readings for the week ahead.
-
 P = Text is a candidate for presentations
 
 ## Week 1 - Introductions and Overview
 
 ### Required Reading
 
-I will be emailing prospective students prior to the start of the semester (over the summer when this module is taught during the fall) and encourage you to have come to class having read the chapters related to East Asian historiography in *The Oxford History of Historical Writing* series. We have ebook access to these through the library. Please read the chapters below (about 550 pages including bibliographies) as all of these contain many possibilities for your long essay beyond what is covered in seminar themes, but if you are not able to find time for them all, then please focus on those with a "\*\*" after the title, most of all, and thereafter those with "\*".
+Our first week will include substantial discussion in groups around assigned texts. Please prepare for our first session by reading widely in the series of volumes in The Oxford History of Historical Writing chapters related to historical writing in East Asia (all volumes are available as ebooks through the library).
 
-*Vol 1*  
+At the *minimum*, please read at least 2 chapters from among each of the categories A, B, and C, for a total minimum of 6 chapters. After reading these six chapters, please choose one of them and be prepared to introduce/summarise the chapter to a small group in class in the form of a short 5 minute presentation: What are distinctive features of the historical writing in the chapter presented? What are some key writings that represent it? How might it inform our understanding of the diversity of historical writing in East Asia or globally?
+    
+*Vol 1*  [Ebook](http://library.st-andrews.ac.uk/record=b2383267~S5)  
 Ch 15 History and Inscriptions, China   
 Ch 16 Chinese History and Philosophy \*\*  
 Ch 17 Pre-Qin Annals \*\*  
@@ -23,27 +21,27 @@ Ch 19 Sima Qian and the Shiji \*\*
 Ch 20 The Han Histories \*  
 Ch 21 Historiography of the Six Dynasties Period (220-581)  
 Ch 22 Buddhism: Biographies of Buddhist Monks  
-*Vol 2*  
+*Vol 2*  [Ebook](http://library.st-andrews.ac.uk/record=b2543183~S5)  
 Ch 1 The Growth of Historical Method in Tang China \*  
 Ch 2 Chinese Historiography in the Age of Maturity, 960-1368 \*  
 Ch 3 The Birth and Flowering of Japanese Historiography \*  
 Ch 6 The Tradition of Historical Writing in Korea \*  
-*Vol 3*  
+*Vol 3* [Ebook](http://library.st-andrews.ac.uk/record=b2383268~S5)
 Ch 1 Chinese Official Historical Writing under the Ming and Qing  
 Ch 2 The Historical Writing of Qing Imperial Expansion  
 Ch 3 Private Historiography in Late Imperial China  
 Ch 4 A Social History of Japanese Historical Writing \*\*  
 Ch 5 Writing History in Pre-Modern Korea \*\*  
-*Vol 4*
+*Vol 4* [Ebook](http://library.st-andrews.ac.uk/record=b2383269~S5)
 Ch 24 The Transformation of History in China and Japan \*\*  
-*Vol 5*  
+*Vol 5* [Ebook](http://library.st-andrews.ac.uk/record=b2543184~S5)
 Ch 30 Chinese Historical Writing since 1949 \*\*  
 Ch 31 Japanese Historical Writing \*\*  
 Ch 32 Historians and Historical Writing in Modern Korea \*\*  
 
 ### Elective Reading
 
-For your elective reading handout, please select one of the chapters of the Oxford History that interests you.
+No elective readings or handouts this week.
 
 ### Further Reading
 
@@ -86,12 +84,6 @@ Theoretical Reflections and Differing Approaches
 - White, Hayden *Metahistory: The Historical Imagination in Nineteenth-Century Europe*
 - Wolf, Eric *Europe and the People Without History*
 
-### Preparation
-
-1. The East Asia related chapters of the *Oxford History* are written by many of the key authors writing on historiography for the region in the English language. We will meet many of these authors again in future weeks. If you read these chapters well, which almost all have great suggestions for further reading, and engage with a wide range of scholarship through the footnotes, they should provide you with a few early ideas for your long essay project. Please come to the seminar having reflected on this reading not only for understanding, but ask yourself what issues, time period, texts, or historians spark your interest for possible long essay directions. Make note of the some of the suggested readings from the chapters that most interest you.
-
-2. Scan over the list of texts at the end of this handbook and make a list of books that are in your topics of interest. Check on their online availability through the university library, or if necessary, their availability for purchase if you think they will be of central importance to your project.
-
 \pagebreak
 
 ## Week 2 - The Spring and Autumn Annals and its Commentaries
@@ -102,7 +94,7 @@ Primary Sources:
 
 Mair, Victor H. et al. *Hawaii Reader in Traditional Chinese Culture* (2005) - Ch 11 The World of the Zuozhuan
 
-Choose and read one of the following of the sections of the *Zuozhuan*:  
+Choose and skim one of the following of the sections of the *Zuozhuan* - make note of some passages that stand out for you:
 - [Lord Zhuang](http://www2.iath.virginia.edu/saxon/servlet/SaxonServlet?source=xwomen/texts/chunqiu.xml&style=xwomen/xsl/dynaxml.xsl&chunk.id=d2.9&toc.id=d2.9&doc.lang=bilingual) (693-662 BCE)  
 - [Lord Xi](http://www2.iath.virginia.edu/saxon/servlet/SaxonServlet?source=xwomen/texts/chunqiu.xml&style=xwomen/xsl/dynaxml.xsl&chunk.id=d2.11&toc.id=d2.11&doc.lang=bilingual) (659-627 BCE)  
 - [Lord Wen](http://www2.iath.virginia.edu/saxon/servlet/SaxonServlet?source=xwomen/texts/chunqiu.xml&style=xwomen/xsl/dynaxml.xsl&chunk.id=d2.12&toc.id=d2.12&doc.lang=bilingual) (626-609 BCE)  
@@ -118,7 +110,7 @@ Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 3: Writing
 Review your notes from *Oxford History*:  
 Vol 1: Ch 16 Chinese History and Philosophy, Ch 17 Pre-Qin Annals
 
-Reference: 
+*Reference:*
 
 The first few weeks leans heavily in the direction of Chinese history. If you feel a bit disoriented, you can get an overview of the history of this period here:
 
@@ -129,6 +121,8 @@ There is also a fantastic reference manual that anyone with an interest in Chine
 Wilkinson, Endymion Porter. *Chinese History: A Manual*. Fifth Edition. Harvard Univ Asia Center, 2018.  - A convenient digital version of the book can be purchased through the iOS and Android app [Pleco](https://www.pleco.com/).
 
 ### Elective Reading
+
+All students must read one of the elective reading categories. The elective reading categories are what you base your elective reading handout on. 
 
 1. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 1 The Rhetoric of Good Order [Library ebook](http://hdl.handle.net/2027/heb.09182)
 2. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 5 The Anecdotal History [Library ebook](http://hdl.handle.net/2027/heb.09182)
@@ -162,7 +156,7 @@ Miller, H. *The Gongyang Commentary on The Spring and Autumn Annals: A Full Tran
 Ng, On Cho, and Q. Edward Wang. *Mirroring the Past: The Writing and Use of History in Imperial China*. Honolulu: University of Hawai’i Press, 2005. [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3081175)
 
 
-Nylan, Michael *The Five "Confucian" Classics* (2001) (P)
+Nylan, Michael *The Five "Confucian" Classics* (2001) 
 
 Pines, Yuri. ‘Intellectual Change in the Chunqiu Period: The Reliability of the Speeches in the “Zuo Zhuan” as Sources of Chunqiu Intellectual History’. *Early China* 22 (1997): 77–132.
 
@@ -201,15 +195,14 @@ Shi ji 125 Biographies of the Emperors' Male Favorites (~5)
 
 Secondary Sources:
 
+(if you haven't read it already in Week 1) *The Oxford History of Historical Writing*:
+Vol 1: Ch 19 Sima Qian and the Shiji   
+
 Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 2 Representing the World (~35)
 
 Watson, Burton *Ssu Ma Chien: Grand Historian of China* Ch 5 The Thought of Ssu-ma Ch'ien [on Archive.org](http://archive.org/details/ssumachiengrandh012602mbp) (~40)
 
-
 Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 7: The Encyclopedic Epoch section 'Sima Qian and Universal History' pp308-317 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3109400)
-
-Review your notes from the *Oxford History*:  
-Vol 1: Ch 19 Sima Qian and the Shiji   
 
 ### Elective Reading
 
@@ -259,7 +252,7 @@ Yang, Lei. ‘Building Blocks of Chinese Historiography: A Narratological Analys
 
 ### Preparation
 
-Please continue to work on your long essay ideas. Your essay prospectus will be due soon. 
+Please continue to work on your long essay ideas.
 
 \pagebreak
 
@@ -372,7 +365,7 @@ Primary Sources:
 Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. Han Dynasty Vol 2 [ACLS ebook](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/concern/monographs/r207tp65z?locale=en)  
 [Shi Ji 110](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/6969z115b?locale=en#/6/290[xhtml00000145]!/4/1:0) The Account of the Xiongnu (~35)  
 
-Read one of the following:  
+Read **one** of the following:  
 [Shi Ji 114](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/6969z115b?locale=en#/6/470[xhtml00000235]!/4/1:0) The Account of Eastern Yue  
 [Shi Ji 123](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/6969z115b?locale=en#/6/494[xhtml00000247]!/4/1:0) The Account of Dayuan  
 [Shi Ji 116](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/6969z115b?locale=en#/6/538[xhtml00000269]!/4/1:0) The Account of the Southwestern Barbarians  
@@ -427,15 +420,13 @@ You should be getting your prospectus feedback this week. Think ahead about how 
 
 ## Week 6 Independent Learning Week
 
-If you didn't get a chance to read or take notes on the Oxford history before the semester began, consider catching up on those, especially the chapters from volume three onward. 
+If you didn't get a chance to read or take notes on much of the *The Oxford History of Historical Writing* before the semester began, consider catching up on those, especially the chapters from volume three onward. 
 
 This is the week when you should make the most progress on your research for your long essay. You have dedicated time this week, without the distraction of other reading assignments. After this week you should begin the process of writing the long essay.
 
 \pagebreak
 
-## Week 7 - Martial Tales and History: The Romance of the Three Kingdoms and The Tale of the Heike
-
-In most years students will have a collective choice on which of these two key texts to focus on for seminar discussion. Due to limits on library access, and the need to prepare online texts over the summer, Fall 2020 will focus on the historical novel attributed to Luo Guanzhong, *The Three Kingdoms*. 
+## Week 7 - Martial Tales and History
 
 ### Required Reading
 
@@ -455,8 +446,7 @@ Roberts, Moss *Three Kingdoms: A Historical Novel Complete and Unabridged* Unive
 
 Wang, Q. Edward, et al *The Many Faces of Clio: Cross-Cultural Approaches to Historiography, Essays in Honor of Georg G. Iggers* Ch 12 Time and Space in Chinese Historiography: Concepts of Centrality in the History and Literature of the Three Kingdoms (see Files)
 
-Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. (see Files)  
-Introduction  
+Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. (see Files)  Introduction  
 
 
 ### Elective Reading
@@ -571,7 +561,6 @@ Wang, Q. Edward. *Inventing China through History: The May Fourth Approach to Hi
 9. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 4 Modernity as Political Discourse
 10. Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China*. Ch 2 Bifurcating Linear Histories
 11. Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China* Sun Yat-sen: The Experience of Real and Narrative Closure pp133-139 in Ch 4 Secret Brotherhood + Ch 6 Provincial Narratives
-
 
 *Japan Focus:*
 

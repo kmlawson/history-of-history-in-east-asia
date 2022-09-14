@@ -1,6 +1,6 @@
 # Assignments
 
-The assessed portion of the coursework for this module consists of one long essay, two fifteen minute presentations, and four blog entries. In addition, students are required to come prepared each week having completed the required reading plus one elective reading category and be ready to discuss it. Each week they are required to supply a 1-2 page handout in size 12 font with an overview or outline of their chosen elective readings.
+The assessed portion of the coursework for this module consists of one long essay, two five to ten minute presentations (at least one of which is recorded), and four blog entries. In addition, students are required to come prepared having completed the required reading plus one elective reading category and be ready to discuss it (see below). With this elective reading students are required to supply a 1-2 page handout in size 12 font with an overview or outline of their chosen elective readings four times across the semester.
 
 **Note:** Paper submissions are not requested for any of the assessments. You may upload the submissions directly onto MMS. Your handout for presentations should also be uploaded to the presentation section of MMS by midnight the evening before class when you give your presentation.
 
@@ -33,9 +33,9 @@ This document, sections 1-4, contains extremely valuable information on how to c
 
 ## Long Essay
 
-The essay for the course is worth 50% of the total coursework and has a limit of 6,000 words including footnotes. The process of composing an essay of this length is made far easier if you make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument.
+The essay for the course is worth 50% of the total coursework and has a limit of 5,000 words including footnotes. The process of composing an essay of this length is made far easier if you make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument.
 
-Some class time in most weeks will be dedicated to discussing the essay. It is not uncommon for a student to change topics once or twice during the semester, as the feasibility of one topic or another is evaluated and the sources explored. My suggestion is that you answer two questions for yourself very early in your research: 1) Once you have a general topic or area of history you are interested in, think about what kinds of arguments or historical approaches have been applied to this area before that will serve as the starting point for your intervention? 2) What kinds of primary sources will I have realistic access to for use in the essay unless I want to make a purely historiographical essay based exclusively on secondary materials.
+Some class time in most weeks will be dedicated to discussing the essay. It is not uncommon for a student to change topics once or twice during the semester, as the feasibility of one topic or another is evaluated and the sources explored. My suggestion is that you answer two questions for yourself very early in your research: 1) Once you have a general topic or area of history you are interested in, think about what kinds of arguments or historical approaches have been applied to this area before that will serve as the starting point for your intervention? 2) What kinds of primary sources will I have realistic access to for use in the essay unless I want to make a purely historiographical essay based exclusively on secondary materials?
 
 \pagebreak
 
@@ -45,7 +45,7 @@ Your essay should be an argument driven analytic research essay. Your long essay
 
 Unless you receive prior permission from Konrad, the essay should *not* be primarily on a recent reproduction of a historical narrative in the form of recent films, computer games, or comics, though it may refer to these in the course of developing an argument.
 
-*Journals for Inspiration:* I would suggest browing some of the following journals, and especially note articles that fit the above description:
+*Journals for Inspiration:* I would suggest browsing some of the following journals, and especially note articles that fit the above description:
 
 *The Journal of Asian Studies*  
 *Monumenta Nipponica*  
@@ -166,24 +166,38 @@ Feedback is generally provided directly on the mark sheet, which will be posted 
 
 Being able to synthesise reading and present ideas orally in class is a key skill. You have assessed and non-assessed presentations in this module. You will be formally assessed on **two presentations**.
 
-This semester, the delivery of assessed presentations will be through a recorded presentation accompanied by slides. You can record your voice over slides in both Apple Keynote and in Powerpoint and export the result as a movie. You are welcome to use other movie editing software if you wish. This should be uploaded to the class files in Microsoft Teams together with your handout no later than 24 hours before class session related to the text you are presenting on. All students should watch the presentations before class and we will make time for Q&A in class. Please name the video file you upload the week number, your name, and a title of the text your presentation is about. For example: W5 - Sara - The Book
+This semester, the delivery of assessed presentations will be through a recorded presentation accompanied by slides, or in person presentation with a handout. The default will be recorded, so let me know if you want to do yours in person. In person presentations have no slides. For recorded presentations, you can record your voice over slides in either Apple Keynote or in Powerpoint and export the result as a movie. You are welcome to use other movie editing software, if you prefer, as long as you produce a video file that can be viewed in VLC. This should be uploaded to the class files in Microsoft Teams together with your handout no later than **Tuesday at Noon** before class session related to the text you are presenting on. 
+
+**All students** should watch the presentations before class and we will make time for Q&A in class. Please name the video file you upload the week number, your name, and a title of the text your presentation is about. For example: W5 - Sara - The Book
 
 Unless you secure permission for a special topic from me, the topic of your presentation should be a single author monograph and throughout the seminar readings provided below you will see a (P) next to appropriate texts you may present on. Many of these are found in the further reading section. Unlike your weekly elective reading handout, however, your presentation should cover the entirety of the work, not merely any assigned chapters. 
 
 Presentation skill is shown in your ability to: choose what is most useful to share, choose a quantity of information that will still allow you to speak at a measured pace, project your voice clearly, make use of effective pauses, modulate your voice effectively, make use of a spoken rather than a written register that engages the listener, avoid exactly reproducing the content of a handout, and present in a way that, even if you are referring to a written set of notes or text, still flows naturally.
 
-The assessed presentations should be 15 minutes in length and not a minute longer. The presentation should summarise the main arguments, point out what was most interesting or useful as a takeaway from the chosen text, and make 1-3 focused critiques or observations about the read material. It should *not* a detailed and exhaustive retelling of the content: it should highlight the arguments, strengths and set the context. Part (but not all) of the presentation may offer greater detail on a particularly important section.
+The assessed presentations should be 5-10 minutes in length and not a minute longer (a longer presentation is not necessarily better. An effective concise 5 minute presentation will get a stronger mark than a rambling 10 minute one). The presentation should summarise the main arguments, point out what was most interesting or useful as a takeaway from the chosen text, and make 1-3 focused critiques or observations about the read material. It should *not* a detailed and exhaustive retelling of the content: it should highlight the arguments, strengths and set the context. Part (but not all) of the presentation may offer greater detail on a particularly important section.
 
-When possible, excellent presentations will ideally connect what is read and presented to our other readings and the discussion of the day. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required. The handout may include 1-2 images, a timeline, list of names or a map, as appropriate. Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
+Excellent presentations will ideally connect what is read and presented to our other readings and the discussion of the day. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required. The handout (for in person presentations) may include 1-2 images, a timeline, list of names or a map, as appropriate. Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
 
-For *both* assessed presentations and the weekly elective reading handout (one piece of paper front and back, at most) you should upload the recording and/or handout to the module Moodle at least 24 hours before class to allow everyone time to view it. It should include some paragraphs or bullet points that may include arguments, interesting empirical examples, key quotes, any interesting sources used, or highlight key persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. 
+**Recorded Presentation**: 
+
+You can record your voice over slides in Apple Keynote and in Powerpoint or some other applicaiton, **but must export the result as a movie file** - you *may not submit a powerpoint or keynote file*. The advantage of the recorded presentation that you can do this entirely from the comfort of your own home, and no supplementary handout is required. The disadvantage is that you must submit the video by Tuesday at noon in the week related to the content, or you will receive a late penalty for each day as if it were an essay submitted late. A strong first class recorded presentation will not have very text heavy slides, will have an excellent connection between visual, textual, content and linking of slide content and spoken word, and will be delivered in a dynamic manner. 
+
+- IMPORTANT: You must submit a movie - *not a powerpoint file with embedded sound, and not a keynote file*, but a movie file. Again: you must submit a movie file (MP4, etc.). 
+- Confirm that your movie can be viewed using the open source software [VLC](https://www.videolan.org/). 
+- After saving as a movie file, please confirm that voice is clearly audible (not a faint or unclear voice) and your slides display. If you are unable to do this, then give your presentation in person on the appropriate day relative to your topic. 
+- The recorded presentation video should be uploaded to the class files in Microsoft Teams together with a separate handout no later than 3 days before the class relevant to the content. All students should watch the presentations before class and we will make time for Q&A in class. 
+- Please name the video file you upload strictly following  this format: the week number, your first name, and a title of the text your presentation is about. For example: W5 - Sarah - The Book Title
+
+**In Person Presentation**:
+
+For in person presentation handouts (one piece of paper front and back, at most) you should upload the handout to the module Moodle at least 24 hours before class to allow everyone time to view it. It should include a mix of paragraphs or bullet points that may include summary, arguments, interesting empirical examples, key quotes, any interesting sources used, or highlight key persons or dates. The bullet points should be *complete sentences* (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. 
 
 Some questions to consider as you prepare:
 
 * Did the student project their voice clearly, modulate their voice appropriately, make effective use of pauses, and speak at an appropriate speed?
-* Did the distributed handout of one or at most two sides of a piece of paper accurately summarize the general points to be made in the presentation in the form of concise bullet points
+* Did the distributed handout (for in person presentations) of one or at most two sides of a piece of paper accurately summarize the general points to be made in the presentation in the form of concise bullet points
 * Did the handout include any important dates, sources, or a map that serves as a useful reference?
-* Was the 15 minute limit very strictly observed in the presentation?
+* Was the 5-10 minute limit very strictly observed in the presentation?
 * Did the presentation provide the context of the work, and introduce the author?
 * Was the presentation well-structured, organized, and focus on a only a few key points?
 * Was there a good balance of arguments, examples to support them, and critique?
@@ -193,58 +207,50 @@ Some questions to consider as you prepare:
 
 \pagebreak
 
-## Blog Entries
+# Reflective Essays
 
-We have a module website at:
+20% of the grade for this module comes from reflective essays, reflecting on the week's reading. You may submit either a reflective essay or an elective reading handout in any given week. Elective Reading handouts are not marked, but they are required, see the relevant section below for more details. Reflective essays are marked, shared the week they relate to on Moodle, and then submitted again on MMS. All your reflective essays must be on Moodle, posted in separate weeks, prior to their final submission together on MMS and no more than one entry may be submitted for a given week. **You are required to submit four elective reading handouts and four reflective essays** (starting Week 2) so you can take a week off and submit neither. Most weeks (you may submit a reflective essay in Week 6 too if you have fallen behind) **by Tuesday 11pm**, you upload **either a PDF of your reading handout or the raw text of a reflective essay** (directly enter text into the Moodle forum, don't upload a document for reflective essays). This will allow fellow students to read both from week to week, and confirm that you have made a single submission in any given week. Again: you will receive no credit for more than one item submitted in any given week. The idea of this exercise is to ensure you engage with your reading across the semester.
 
-[http://transnationalhistory.net/history/](http://transnationalhistory.net/history/)
+Keep in mind, you need to have your four reflective essays complete for your MMS submission in Week 7, while elective reading handouts may continue after that date. This is to ensure that you have more time for the long essay in the last weeks of the semester. **For example:** student A submits a reflective essay in week 2, 4, 5, and 7, with handouts in week 3, 8, 9, and 10. Student B submits a reflective essay in week 2, 3, 4, and 5, with handouts in 7, 8, 9, and 11. Student C submits reflective essays in 4, 5, 6 (even though it is independent learning week), and 7, with handouts in 2, 3, 8, and 9. All of them need to upload their posted reflective essays to MMS in Week 7.
 
-This is a public facing website where students will contribute postings, but no students will be asked to use their real name. You can set or change your pseudonym through the blog interface whenever you like. Students are required to post a **minimum of four postings** during the semester and these postings must be **posted across at least four different weeks** (that is they must be online and visible). However, there is flexibility on the content: you may post on readings from before or after the week it relates to, and may have more than one posting related to material from a single week. The total number of words posted across the semester must be a minimum of 2,400 words posted during the course of the semester. You may have some short postings (say, 300 words) or longer postings (I would suggest not going over 1,500), and you are free to post more than four postings during the semester, or exceed the word limit. 
+**Submission**: You share your work (reflective essay or handout) weekly to the Moodle, but re-submit reflective essays to MMS by the deadline in Week 7. Submit a document with the usual required headers/cover, and in this document 1) list the dates (on Moodle) you submitted your five reading handouts (no need to post the handout contents into your submission, just the dates where I can find them on Moodle). 2) Then paste in your reflective essay into the document for submission. **Your reflective essays may each vary in length, but should, altogether, be at least 2,400 words in length (so aim for average of at least 600 words per essay). You should not make substantial changes to your original Moodle reflective essay postings, but you are permitted to correct typos, rephrase a sentence, add a citation or correct an inaccurate claim. 
 
-By the Friday of Week 11, you should choose four of your online blog postings (minimum 2,400 words) and copy and paste them into a document, including their word count, titles, links to the online version, and, importantly, the date they were posted online into a document and upload this document to the MMS. The postings *must already be on the blog, and cannot be new postings produced for the submission*. Points for the overall mark will be the average of the mark on the four selected and submitted postings. Each posting will receive a mark based on the cumulative score according to the following simple criteria, which are judged to be *either present or absent* (no partial marks)
+**Marking Reflective Essays**: 
 
-* 4 points if the posting makes a clear analytical point
-* 4 points if the posting makes concrete references to particular parts of a reading, with a footnote
-* 3 points if the posting was well-written in terms of language
-* 3 points if the posting was relevant to assigned readings or further readings
-* 3 points if the posting keeps a good focus throughout.
-* 3 additional points will be given for postings that are of especially high quality
+Points for the overall mark will be the average of the mark on the four selected and submitted essays. Feedback will be on the essays in general, highlighting strengths and areas for improvement across them. 
 
-A decent posting, with no significant flaws, should, therefore, get a score of 17. Particularly strong postings may garner 20s. 
-
-*Example:* A student writes 6 postings during the semester totalling 3,200 words. They select 4 of these, including 1 high quality post of 500 words (20), 2 posts that meet the requirements but were not exceptional, one 500 and one 600 words (each getting 17), and 1 post of 800 words that follows all the above but did not maintain a clear focus (17-3=14), then the overall blog mark would come to (20+17+17+14)/4 = 17
-
-**How to Post Blog Entries:** You will be given details for your login information late in the first week. Then to login, go to:
-
-[http://transnationalhistory.net/history/post/](http://transnationalhistory.net/history/post/)
-
-- Use your login user name and password. You will receive this by the end of Week 1.
-- From there, on the left hand sidey ou can choose "Add New" from the "Posts" menu.
-- There, give your posting a title
-- add a few tags on the right side without any caps, for example "japan, 20th century, kyoto school, philosophy of time, nishitani" that indicate things like place, time, people, topics that are relevant to your posting (all without caps).
-- Write your blog posting in the middle
-- When you have a quote or refer to a text, you must add a footnote by enclosing the footnote countents in double parenthesis. You must leave a space before the first and after the last parenthesis. Example: Here is some text. ((And here is the footnote contents with a space before it))
-- Don't worry about adding categories.
-- You can "preview" your posting if you want to read it over and look for mistakes with a nicer view.
-- When you are happy with the posting, click "Publish" or save the draft if you wish to return to it later
-- You can always return to postings by going to "Posts" on the left and "All Posts"
+* Does the essay makes a clear analytical point?
+* Does the essay make concrete references to particular parts of a source and ideally one of our secondary readings
+* Was the essay well-written in terms of language?
+* Was the essay was relevant to assigned readings or further readings?
+* Did the essay keep a good focus throughout?
+* Did the essay have any issues of accuracy?
+* Was the essay of especially high quality?
 
 **What to Write:**
 
-- Your postings should ideally each aim to be between 400-1,000 words but you won't be penalised for something longer on word count alone.
-- The posts should have a single overarching purpose and unified focus
-- The posts should be be focused on material in the elective or further readings, and may only be from the required set readings if it is a primary source. It may, in addition, refer to additional readings from anywhere.
+- Please make explicit reference to at least one source in our reading. **You don't need any regular footnotes**, but when referring to one of our readings, mention the title explicitly in body of your writing and include relevant page number in parentheses.
+- Use the postings to reflect on your reading, highlight interesting arguments, put assigned readings into conversation with eachother etc.
+- Your reflective essays should ideally each aim to be between 400-1,000 words 
+- The essays should have a single overarching purpose and unified focus - if you find your post getting too long ask yourself if you have remained focused throughout.
+- The essays should be primarily focused on material in the elective or further readings, and may only be from the required set readings if it is a primary source. It may refer to additional readings from anywhere.
 - Avoid vague references to what you like and don't like; what you found interesting or not interesting - unless you follow this up with concrete and specific reasons why something is interesting or valuable.
 - Be concise and avoid repetition. 
 
 Here are some ideas of what make good postings (but you aren't limited to this):
 
-- Focus in on a passage in a primary source, quote part of the passage (try not to make the quote too long) in the posting and then offer a reflection on it.
+- Focus in on a passage in an assigned primary source, quote part of the passage (try not to make the quote too long) in the posting and then offer a reflection on it.
 - Same as above, but instead of just offering a reflection, put that passage into meaningful conversation with another secondary or primary reading we did either this week or another week.
 - Describe or synthesise a point that you find important or interesting from a secondary reading and say why you think it is important.
 - Put the arguments of two secondary sources into dialogue with each other
 - Reflect on how the arguments of a text might contribute to our understanding of some other clase in another place or time
-- Write a posting on the use of language or terms in a source and why you think it is meaningful or important
-- Write a posting around a certain pattern you see across multiple texts
+- Write a reflective essay on the use of language or terms in a source and why you think it is meaningful or important
+- Write a reflective essay around a certain pattern you see across multiple texts
 
+### Online Submission
 
+Unless otherwise indicated, work will considered submitted by the date the document was submitted online on the MMS. Paper copies do not need to be submitted: let's save paper. If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
+
+### Feedback
+
+Feedback is generally provided directly on the mark sheet, which will be posted to the MMS within 10 work days (14 full days). Presentation feedback is provided at two points in the semester so they may be marked in groups. 
