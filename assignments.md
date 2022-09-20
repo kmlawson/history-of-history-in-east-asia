@@ -18,7 +18,6 @@ When formatting your assignments, please follow these guidelines:
 
 * Add page numbers
 * Use a minimum of 12 sized font
-* Use a serif font (such as Times Roman, Georgia, Garamond), not a sans serif font (such as Arial, Helvetica, Verdana)
 * Please double space your essays
 
 Other aspects of formatting are highlighted in the School of History style sheet. See the following section.

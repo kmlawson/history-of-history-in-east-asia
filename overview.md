@@ -19,8 +19,8 @@
 ### Key Details
 
 **Lecturer:** Konrad M. Lawson **Email:** kml8@st-andrews.ac.uk  
-**Meets:** Fall, 2019 - Thursday 11am-1pm
-**Location:** St Katharine's Lodge 0.02
+**Meets:** Fall, 2022 - Thursday 11am-1pm  
+**Location:** St Katharine's Lodge 0.02  
 **Office:** St. Katharine's Lodge B3  
 **Office Hours:** Tue 9-11 on Teams or Thu 5-6pm in person (please sign up for a [time](https://goo.gl/Rh19wj) )
 
@@ -31,7 +31,7 @@ This module provides is a selective thematic survey on the evolving approaches t
 
 20% Blog Entries – 4 postings together a minimum of 2,400 words - 16 Nov  
 50% Long Essay – 5,000 words - 5 December   
-30% Two Assessed Presentations 10 minutes each      
+30% Two Assessed Presentations 5-10 minutes each      
 
 *All submissions are by MMS and due before midnight*
 

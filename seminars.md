@@ -13,31 +13,31 @@ Our first week will include substantial discussion in groups around assigned tex
 At the *minimum*, please read at least 2 chapters from among each of the categories A, B, and C, for a total minimum of 6 chapters. After reading these six chapters, please choose one of them and be prepared to introduce/summarise the chapter to a small group in class in the form of a short 5 minute presentation: What are distinctive features of the historical writing in the chapter presented? What are some key writings that represent it? How might it inform our understanding of the diversity of historical writing in East Asia or globally?
     
 *Vol 1*  [Ebook](http://library.st-andrews.ac.uk/record=b2383267~S5)  
-Ch 15 History and Inscriptions, China   
-Ch 16 Chinese History and Philosophy \*\*  
-Ch 17 Pre-Qin Annals \*\*  
-Ch 18 Historiography and Empire   
-Ch 19 Sima Qian and the Shiji \*\*  
-Ch 20 The Han Histories \*  
-Ch 21 Historiography of the Six Dynasties Period (220-581)  
-Ch 22 Buddhism: Biographies of Buddhist Monks  
+Ch 15 History and Inscriptions, China (A)   
+Ch 16 Chinese History and Philosophy (A)  
+Ch 17 Pre-Qin Annals (A)  
+Ch 18 Historiography and Empire (A)   
+Ch 19 Sima Qian and the Shiji (A)  
+Ch 20 The Han Histories (A)  
+Ch 21 Historiography of the Six Dynasties Period (220-581) (A)  
+Ch 22 Buddhism: Biographies of Buddhist Monks (A)   
 *Vol 2*  [Ebook](http://library.st-andrews.ac.uk/record=b2543183~S5)  
-Ch 1 The Growth of Historical Method in Tang China \*  
-Ch 2 Chinese Historiography in the Age of Maturity, 960-1368 \*  
-Ch 3 The Birth and Flowering of Japanese Historiography \*  
-Ch 6 The Tradition of Historical Writing in Korea \*  
-*Vol 3* [Ebook](http://library.st-andrews.ac.uk/record=b2383268~S5)
-Ch 1 Chinese Official Historical Writing under the Ming and Qing  
-Ch 2 The Historical Writing of Qing Imperial Expansion  
-Ch 3 Private Historiography in Late Imperial China  
-Ch 4 A Social History of Japanese Historical Writing \*\*  
-Ch 5 Writing History in Pre-Modern Korea \*\*  
-*Vol 4* [Ebook](http://library.st-andrews.ac.uk/record=b2383269~S5)
-Ch 24 The Transformation of History in China and Japan \*\*  
-*Vol 5* [Ebook](http://library.st-andrews.ac.uk/record=b2543184~S5)
-Ch 30 Chinese Historical Writing since 1949 \*\*  
-Ch 31 Japanese Historical Writing \*\*  
-Ch 32 Historians and Historical Writing in Modern Korea \*\*  
+Ch 1 The Growth of Historical Method in Tang China (A)  
+Ch 2 Chinese Historiography in the Age of Maturity, 960-1368 (A)  
+Ch 3 The Birth and Flowering of Japanese Historiography (B)  
+Ch 6 The Tradition of Historical Writing in Korea (B)    
+*Vol 3* [Ebook](http://library.st-andrews.ac.uk/record=b2383268~S5)  
+Ch 1 Chinese Official Historical Writing under the Ming and Qing (A)  
+Ch 2 The Historical Writing of Qing Imperial Expansion (A)   
+Ch 3 Private Historiography in Late Imperial China (A)   
+Ch 4 A Social History of Japanese Historical Writing (B)    
+Ch 5 Writing History in Pre-Modern Korea (B)  
+*Vol 4* [Ebook](http://library.st-andrews.ac.uk/record=b2383269~S5)  
+Ch 24 The Transformation of History in China and Japan (C)  
+*Vol 5* [Ebook](http://library.st-andrews.ac.uk/record=b2543184~S5)  
+Ch 30 Chinese Historical Writing since 1949 (C)    
+Ch 31 Japanese Historical Writing (C)  
+Ch 32 Historians and Historical Writing in Modern Korea (C)  
 
 ### Elective Reading
 
@@ -92,9 +92,9 @@ Theoretical Reflections and Differing Approaches
 
 Primary Sources:
 
-Mair, Victor H. et al. *Hawaii Reader in Traditional Chinese Culture* (2005) - Ch 11 The World of the Zuozhuan
+Mair, Victor H. et al. *Hawaii Reader in Traditional Chinese Culture* (2005) - Ch 11 The World of the Zuozhuan pp72-77 [Ebook](http://library.st-andrews.ac.uk/record=b3009702~S5)
 
-Choose and skim one of the following of the sections of the *Zuozhuan* - make note of some passages that stand out for you:
+*Just Skim:* Choose and skim one of the following of the sections of the *Zuozhuan* - make note of of a few passages that stand out for you in terms of chronicle+commentary:  
 - [Lord Zhuang](http://www2.iath.virginia.edu/saxon/servlet/SaxonServlet?source=xwomen/texts/chunqiu.xml&style=xwomen/xsl/dynaxml.xsl&chunk.id=d2.9&toc.id=d2.9&doc.lang=bilingual) (693-662 BCE)  
 - [Lord Xi](http://www2.iath.virginia.edu/saxon/servlet/SaxonServlet?source=xwomen/texts/chunqiu.xml&style=xwomen/xsl/dynaxml.xsl&chunk.id=d2.11&toc.id=d2.11&doc.lang=bilingual) (659-627 BCE)  
 - [Lord Wen](http://www2.iath.virginia.edu/saxon/servlet/SaxonServlet?source=xwomen/texts/chunqiu.xml&style=xwomen/xsl/dynaxml.xsl&chunk.id=d2.12&toc.id=d2.12&doc.lang=bilingual) (626-609 BCE)  
@@ -103,14 +103,29 @@ Choose and skim one of the following of the sections of the *Zuozhuan* - make no
 
 Secondary Sources:
 
-Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 6: The Spring and Autumn Annals (~50) (see Files)
+Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 6: The Spring and Autumn Annals (~50) [Ebook](http://library.st-andrews.ac.uk/record=b3279427~S5)
 
-Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 3: Writing the Past (~45) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3109400)
+Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 3: Writing the Past (~45) [Library ebook](http://library.st-andrews.ac.uk/record=b3109400~S5)
 
-Review your notes from *Oxford History*:  
-Vol 1: Ch 16 Chinese History and Philosophy, Ch 17 Pre-Qin Annals
+If you did not already read this chapter in the *Oxford History of Historical Writing*:  
+- Vol 1: Ch 16 Chinese History and Philosophy, Ch 17 Pre-Qin Annals
 
-*Reference:*
+### Elective Reading
+
+**Each week all students must read one of the elective reading categories.** The elective reading categories are what you base your elective reading handout on. 
+
+1. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 1 The Rhetoric of Good Order [Library ebook](http://library.st-andrews.ac.uk/record=b2011826~S5)
+2. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 5 The Anecdotal History [Library ebook](http://library.st-andrews.ac.uk/record=b2011826~S5)
+3. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 8 Writing and the Ends of History [Library ebook](http://library.st-andrews.ac.uk/record=b2011826~S5)
+4. Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 3 The Documents [Ebook](http://library.st-andrews.ac.uk/record=b3279427~S5)
+5. Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 2 The Odes [Ebook](http://library.st-andrews.ac.uk/record=b3279427~S5)
+6. Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Introduction: Anecdotes in Early China p1-40 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3108589)
+7. Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Ch 7 The Limits of Praise and Blame [Library ebook](http://library.st-andrews.ac.uk/record=b3108589~S5)
+8. Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Ch 8 History Without Anecdotes [Library ebook](http://library.st-andrews.ac.uk/record=b3108589~S5)
+9. Denecke, Wiebke et al *The Oxford Handbook of Classical Chinese Literature* Ch 8 Text and Commentary: The Early Tradition + Ch 3 Histories (shi 史) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2495377)
+10. Fitzgerald, Devin trans. *Shitong* [Ch 1 The Six Schools of History](https://devinfitz.com/translations/zhengtong-and-history/liu-zhiji-excerpt-from-the-comprehensive-perspectives-on-historiography-shi-tong-史通/)
+
+### General Reference
 
 The first few weeks leans heavily in the direction of Chinese history. If you feel a bit disoriented, you can get an overview of the history of this period here:
 
@@ -119,21 +134,6 @@ The first few weeks leans heavily in the direction of Chinese history. If you fe
 There is also a fantastic reference manual that anyone with an interest in Chinese history should consider using:
 
 Wilkinson, Endymion Porter. *Chinese History: A Manual*. Fifth Edition. Harvard Univ Asia Center, 2018.  - A convenient digital version of the book can be purchased through the iOS and Android app [Pleco](https://www.pleco.com/).
-
-### Elective Reading
-
-All students must read one of the elective reading categories. The elective reading categories are what you base your elective reading handout on. 
-
-1. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 1 The Rhetoric of Good Order [Library ebook](http://hdl.handle.net/2027/heb.09182)
-2. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 5 The Anecdotal History [Library ebook](http://hdl.handle.net/2027/heb.09182)
-3. Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 8 Writing and the Ends of History [Library ebook](http://hdl.handle.net/2027/heb.09182)
-4. Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 3 The Documents (see Files)
-5. Nylan, Michael *The Five "Confucian" Classics* (2001) - Ch 2 The Odes (see Files)
-6. Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Introduction: Anecdotes in Early China p1-40 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3108589)
-7. Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Ch 7 The Limits of Praise and Blame [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3108589)
-8. Denecke, Wiebke et al *The Oxford Handbook of Classical Chinese Literature* Ch 8 Text and Commentary: The Early Tradition + Ch 3 Histories (shi 史) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2495377)
-9. Fitzgerald, Devin trans. *Shitong* [Ch 1 The Six Schools of History](https://devinfitz.com/translations/zhengtong-and-history/liu-zhiji-excerpt-from-the-comprehensive-perspectives-on-historiography-shi-tong-史通/)
-
 
 ### Further Reading
 
@@ -185,17 +185,17 @@ There are no shortage of ways to engage with the Spring and Autumn annals and it
 Primary Sources:
 
 Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty.   
-Shi Ji 6: The Basic Annals of the First Emperor of the Qin (~30)
-Shi Ji 15: Reflections on the Rise of the Qin (~3)
+Shi Ji 6: The Basic Annals of the First Emperor of the Qin (~30)  
+Shi Ji 15: Reflections on the Rise of the Qin (~3)  
 Shi ji 86 Biographies of the Assasin-retainers  (~10)
 
-Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. Han Dynasty II [ACLS ebook](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/concern/monographs/r207tp65z?locale=en)
+Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. Han Dynasty II [ACLS ebook](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/concern/monographs/r207tp65z?locale=en)  
 Shi ji 29 The Treatise on the Yellow River and Canals (just skim)  
 Shi ji 125 Biographies of the Emperors' Male Favorites (~5)
 
 Secondary Sources:
 
-(if you haven't read it already in Week 1) *The Oxford History of Historical Writing*:
+(if you haven't read it already in Week 1) *The Oxford History of Historical Writing*:  
 Vol 1: Ch 19 Sima Qian and the Shiji   
 
 Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 2 Representing the World (~35)
@@ -206,9 +206,9 @@ Lewis, Mark Edward *Writing and Authority in Early China* (1999) - Ch 7: The Enc
 
 ### Elective Reading
 
-1. Nylan, Michael. ‘Sima Qian: A True Historian?’ *Early China* 23/24 (1998): 203–46.
-2. Shankman, Steven, and Stephen W Durrant. *The Siren and the Sage: Knowledge and Wisdom in Ancient Greece and China* (2003) Part II:1-4 Before and After Philosophy: Thucydides and Sima Qian p79-145 (see Files)
-3. Stuurman, Siep. ‘Herodotus and Sima Qian: History and the Anthropological Turn in Ancient Greece and Han China’. *Journal of World History* 19, no. 1 (2008): 1–40.
+1. Nylan, Michael. ‘Sima Qian: A True Historian?’ *Early China* 23/24 (1998): 203–46. [Jstor](https://www.jstor.org/stable/23354187)
+2. Shankman, Steven, and Stephen W Durrant. *The Siren and the Sage: Knowledge and Wisdom in Ancient Greece and China* (2003) Part II:1-4 Before and After Philosophy: Thucydides and Sima Qian p79-145 [Ebook](http://library.st-andrews.ac.uk/record=b3248633~S5)
+3. Stuurman, Siep. ‘Herodotus and Sima Qian: History and the Anthropological Turn in Ancient Greece and Han China’. *Journal of World History* 19, no. 1 (2008): 1–40. [Jstor](https://www.jstor.org/stable/20079459)
 4. Ng, On Cho, and Q. Edward Wang. *Mirroring the Past: The Writing and Use of History in Imperial China* Ch 2 From the Warring States Period to the Han [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3081175)
 5. Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 3-4 Microcosmic Reading I, II (see Files)
 6. Hardy, Grant. *Worlds of Bronze and Bamboo: Sima Qian’s Conquest of History* (1999) Ch 5 Shaping the World + Ch 8 Understanding the World (see Files)
@@ -274,6 +274,7 @@ Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. Ha
 Secondary Sources:
 
 Raphals, Lisa *Sharing the Light: Representations of Women and Virtue in Early China* (1998) (P) (~70)  [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3108602)  
+(Skip these three chapters if you are doing the Mulan special theme electives)  
 Ch 1 Women as Agents of Virtue and Destruction  
 Ch 2 Women as Prescient Counselors  
 Ch 3 Demonic Beauties and Usurpatious Regents  
@@ -293,6 +294,18 @@ Ess, Hans van. ‘Praise and Slander: The Evocation of Empress Lü in the Shiji 
 9. McMahon, Keith. ‘Women Rulers in Imperial China’. *NAN NÜ* 15, no. 2 (1 January 2013): 179–218. 
 10. Li, Wai-yee. *The Readability of the Past in Early Chinese Historiography* (P). Ch 2 Signs and Causality section 'Women' pp147-160 (see Files)
 11. Wang, Robin R. *Images of Women in Chinese Thought and Culture* (2003)  Ch 33 Women in the Standard Histories
+
+*or Special Theme Elective Readings: Mulan*
+
+Instead of a usual elective reading, skip Raphals required reading and read this plus one Mulan category:  
+- Wang, Robin *Images of Women in Chinese Thought and Culture* Ch 32 The Ballad of Mulan pp250–254
+Shiamin Kwa and Wilt L. Idema ed. Mulan: Five Versions of a Classic Chinese Legend, with Related Texts Introduction ppxi-xxxii (see Files)
+
+Plus one Mulan category:
+
+1. One other chapter of Don, Lan *Mulan’s Legend and Legacy in China and the United States*
+2. Edwards, Louise. “Women Warriors and Amazons of the Mid Qing Texts Jinghua Yuan and Honglou meng” Modern Asian Studies 29, no. 2 (1995)
+3. Chen, Sanping *Multicultural China in the Early Middle Ages* Ch 2 “From Mulan to Unicorn” pp39–59
 
 ### Further Reading
 
@@ -375,24 +388,24 @@ Secondary Sources:
 
 Schaberg, David *A Patterned Past: Form and Thought in Early Chinese Historiography* (2001) - Ch 4 Order in the Human World section 'Cultural Others' pp130-135 [Library ebook](http://hdl.handle.net/2027/heb.09182)
 
-Di Cosmo, Nicola. *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History*. Ch 3 Beasts and Birds: The Historical Context of Early Chinese Perceptions of the Northern Peoples ([ACLS Ebook](https://www-fulcrum-org.ezproxy.st-andrews.ac.uk/epubs/gt54kn65w?locale=en#/6/206[xhtml00000103]!/4/1:0))
+Di Cosmo, Nicola. *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History*. Ch 3 Beasts and Birds: The Historical Context of Early Chinese Perceptions of the Northern Peoples ([ACLS Ebook](http://library.st-andrews.ac.uk/record=b2011870~S5))
 
 Yuri Pines, "Beasts or Humans: Pre-Imperial Origins of the “Sino-Barbarian” Dichotomy," in *Mongols, Turks, and Others: Eurasian Nomads and the Sedentary World*, ed. Reuven Amitai and Michal Biran (Leiden: Brill, 2005), [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2009944)
 
 Els, Paul van and Sarah A. Queen *Between History and Philosophy: Anecdotes in Early China* Ch 4 Anecdotal Barbarians in Early China [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3108589)
 
-Wang, Edward Q., "History, Space, and Ethnicity: The Chinese Worldview," *Journal of World History* 10, no. 2 (1999).
+Wang, Edward Q., "History, Space, and Ethnicity: The Chinese Worldview," *Journal of World History* 10, no. 2 (1999). [Jstor](https://www.jstor.org/stable/20078782)
 
 ### Elective Reading
 
-1. Di Cosmo, Nicola. *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History*. (P) Ch 7 In Search of Grass and Water: Ethnography and History of the North in the Historian's Records + Ch 8 Taming the North: The Rationalization of the Nomads in Ssu-ma Ch'ien's Historical Thought 
-2. Mann, Susan, and Yu-Yin Cheng, eds. ‘The Customs of Various Barbarians by Li Jing (1251-?)’. In *Under Confucian Eyes: Writings on Gender in Chinese History*. University of California Press, 2001.
-3. Tamara T. Chin, "Defamiliarizing the Foreigner: Sima Qian’s Ethnography and Han-Xiongnu Marriage Diplomacy," Harvard Journal of Asiatic Studies 70, no. 2 (2010): 318-19.
-4. Yujun Li, "The “Sino-barbarian dichotomy” amid the political chess of China’s dynasties: In the examples of the Song, Liao, and Jin dynasties," *Chinese Studies in History* 51, no. 1 (2018)
-5. Magnus Fiskesjö, "On the ‘Raw’ and the ‘Cooked’ Barbarians of Imperial China," Inner Asia 1, no. 2 (1999): 140.
-6. Schaberg, David. 'Travel, Geography, and the Imperial Imagination in Fifth-Century Athens and Han China'. *Comparative Literature* 51, no. 2 (1999): 152--91. 
-7. Kim, Hyun Jin. *Ethnicity and Foreigners in Ancient Greece and China* (P) Ch 3 The Barbarian in Classical Greece and Warring States China + Ch 4 Herodotus and Sima Qian
-8. Ge, Zhaoguang. ‘The Evolution of a World Consciousness in Traditional Chinese Historiography’. *Global Intellectual History* (16 March 2020): 1–19. 
+1. Di Cosmo, Nicola. *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History*. (P) Ch 7 In Search of Grass and Water: Ethnography and History of the North in the Historian's Records + Ch 8 Taming the North: The Rationalization of the Nomads in Ssu-ma Ch'ien's Historical Thought [Ebook](http://library.st-andrews.ac.uk/record=b2011870~S5)
+2. Mann, Susan, and Yu-Yin Cheng, eds. ‘The Customs of Various Barbarians by Li Jing (1251-?)’. In *Under Confucian Eyes: Writings on Gender in Chinese History*. University of California Press, 2001. (Files)
+3. Tamara T. Chin, "Defamiliarizing the Foreigner: Sima Qian’s Ethnography and Han-Xiongnu Marriage Diplomacy," Harvard Journal of Asiatic Studies 70, no. 2 (2010): 318-19. [Jstor](https://www.jstor.org/stable/40930904)
+4. Yujun Li, "The “Sino-barbarian dichotomy” amid the political chess of China’s dynasties: In the examples of the Song, Liao, and Jin dynasties," *Chinese Studies in History* 51, no. 1 (2018) [Online](https://www-tandfonline-com.ezproxy.st-andrews.ac.uk/doi/full/10.1080/00094633.2018.1432186)
+5. Magnus Fiskesjö, "On the ‘Raw’ and the ‘Cooked’ Barbarians of Imperial China," *Inner Asia* 1, no. 2 (1999): 140. [Jstor](https://www.jstor.org/stable/23615574)
+6. Schaberg, David. 'Travel, Geography, and the Imperial Imagination in Fifth-Century Athens and Han China'. *Comparative Literature* 51, no. 2 (1999): 152--91. [Jstor](https://www.jstor.org/stable/1771246)
+7. Kim, Hyun Jin. *Ethnicity and Foreigners in Ancient Greece and China* (P) Ch 3 The Barbarian in Classical Greece and Warring States China + Ch 4 Herodotus and Sima Qian (Library)
+8. Ge, Zhaoguang. ‘The Evolution of a World Consciousness in Traditional Chinese Historiography’. *Global Intellectual History* (16 March 2020): 1–19. [Online](https://www-tandfonline-com.ezproxy.st-andrews.ac.uk/doi/full/10.1080/23801883.2020.1738651)
 
 ### Further Reading
 
@@ -434,10 +447,9 @@ Primary Sources:
 
 Roberts, Moss *Three Kingdoms: A Historical Novel Complete and Unabridged* University of California Press, 2004 (Two volume version). [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009698)  
 Ch 1 Three Bold Spirits Plight Mutual Faith in the Peach Garden; Heroes and Champions Win First Honors Fighting the Yellow Scarves  
-Ch 27 The Man of the Magnificent Beard Rides Alone a Thousand Li; The Lord of Hanshou Slays Six Generals and Breaches Five Passes  
 Ch 38 Still Water Recommends Another Noted Scholar; Liu Xuande Pays Three Visits to Zhuge Liang  
 Ch 39 Kongming Determines the Realm's Division and Charts a Course; Sun Quan Leads a Naval Attack and Exacts Revenge  
-Ch 46 Kongming Borrows Cao Cao's Arrows Through a Ruse; Huang Gai Is Flogged Following a Secret Plan  
+Ch 49 On Seven Star Altar Kongming Supplicates the Wind; At Three Rivers Zhou Yu Unleashes the Fire
 Ch 90 Giant Beasts are Deployed in Kongming's Sixth Victory; Rattan Shields are Burned in Meng Huo's Seventh Capture.  
 
 Secondary Sources:
@@ -446,20 +458,20 @@ Roberts, Moss *Three Kingdoms: A Historical Novel Complete and Unabridged* Unive
 
 Wang, Q. Edward, et al *The Many Faces of Clio: Cross-Cultural Approaches to Historiography, Essays in Honor of Georg G. Iggers* Ch 12 Time and Space in Chinese Historiography: Concepts of Centrality in the History and Literature of the Three Kingdoms (see Files)
 
-Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. (see Files)  Introduction  
+Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Introduction  [Ebook](http://library.st-andrews.ac.uk/record=b3114444~S5)  
 
 
 ### Elective Reading
 
-1. Hsia, C. T. *The Classic Chinese Novel : A Critical Introduction* Ch 2 The Romance of the Three Kingdoms
-2. Idema, Wilt L. and Stephen H. West trans. *Records of the Three Kingdoms in Plain Language* Introduction
-3. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*.  Ch 1 Cosmic Foreordination + Ch 2 Essential Regrets: The Structure of Tragic Consciousness in Three Kingdoms (see Files)
-4. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture* Ch 3 Notion of Appropriateness + Ch 6 Zhuge Liang and Zhang Fei Bowang shao tun and Competing Masculine Ideals within the Development of the Three Kingdoms Story Cycle (see Files)
-5. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 4 The Beginning of the End The Fall of the Han and the Opening of Three Kingdoms (see Files)
-6. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 9 From Three Kingdoms the Novel to Three Kingdoms the Television Series (see Files)
-7. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 10 The Reception and the Place of Three Kingdoms in South Korea (see Files)
+1. Hsia, C. T. *The Classic Chinese Novel : A Critical Introduction* Ch 2 The Romance of the Three Kingdoms [Ebook](http://library.st-andrews.ac.uk/record=b3115166~S5)
+2. Idema, Wilt L. and Stephen H. West trans. *Records of the Three Kingdoms in Plain Language* Introduction (Library)
+3. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*.  Ch 1 Cosmic Foreordination + Ch 2 Essential Regrets: The Structure of Tragic Consciousness in Three Kingdoms [Ebook](http://library.st-andrews.ac.uk/record=b3114444~S5)
+4. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture* Ch 3 Notion of Appropriateness + Ch 6 Zhuge Liang and Zhang Fei Bowang shao tun and Competing Masculine Ideals within the Development of the Three Kingdoms Story Cycle [Ebook](http://library.st-andrews.ac.uk/record=b3114444~S5)  
+5. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 4 The Beginning of the End The Fall of the Han and the Opening of Three Kingdoms [Ebook](http://library.st-andrews.ac.uk/record=b3114444~S5)  
+6. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 9 From Three Kingdoms the Novel to Three Kingdoms the Television Series [Ebook](http://library.st-andrews.ac.uk/record=b3114444~S5)
+7. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 10 The Reception and the Place of Three Kingdoms in South Korea  [Ebook](http://library.st-andrews.ac.uk/record=b3114444~S5)
 8. Denecke, Wiebke et al *The Oxford Handbook of Classical Chinese Literature* Ch 17 Elite versus Popular Literature + Ch 18 Narrative Genres [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2495377)
-9. McLaren, Anne E. ‘Challenging Official History in the Song and Yuan Dynasties: The Record of the Three Kingdoms’. In *Knowledge and Text Production in an Age of Print: China, 900-1400*, edited by Lucille Chia and Hilde de Weerdt. BRILL, 2011. (see Files)
+9. McLaren, Anne E. ‘Challenging Official History in the Song and Yuan Dynasties: The Record of the Three Kingdoms’. In *Knowledge and Text Production in an Age of Print: China, 900-1400*, edited by Lucille Chia and Hilde de Weerdt. BRILL, 2011. [Ebook](http://library.st-andrews.ac.uk/record=b3252739~S5)
  
 
 ### Further Reading
