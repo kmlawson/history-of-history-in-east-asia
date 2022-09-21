@@ -24,6 +24,11 @@ $else$
     \setmainfont{Baskerville}
 $endif$
 
+% This template.tex was imported years ago from someone who offered a starting template for multilingual
+% academic texts. I don't know LaTeX so I don't know what most of these things do. Likely there are 
+% packages used here which are not needed or not ideal for this use case.
+% Updated: September 20, 2022 to fix CJK font handling of punctuation. 
+
 % Handling CJK fonts:
 
 % The old way, no longer needed after xecjk >3.x
@@ -56,18 +61,22 @@ $if(sansfont)$
 $else$
     \setsansfont{Helvetica}
 $endif$
+
 $if(monofont)$
     \setmonofont{$monofont$}
 $else$
     \setmonofont[Mapping={}]{Helvetica}
 $endif$
+
 $if(mathfont)$
     \setmathfont{$mathfont$}
 $endif$
 \fi
+
 $if(geometry)$
 \usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
 $endif$
+
 $if(natbib)$
 \usepackage{natbib}
 \bibliographystyle{plainnat}
@@ -94,6 +103,9 @@ $endif$
 $if(tables)$
 \usepackage{longtable}
 $endif$
+
+% Not sure what all this is but seems to work without it:
+
 % $if(graphics)$
 % \usepackage{graphicx}
 % We will generate all images so they have a width \maxwidth. This means
