@@ -186,7 +186,7 @@ There are no shortage of ways to engage with the Spring and Autumn annals and it
 
 Primary Sources:
 
-Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. (See Files)
+Watson, Burton trans. *Records of the Grand Historian of China*, Qin Dynasty. (See Files)  
 Shi Ji 6: The Basic Annals of the First Emperor of the Qin (~30)  
 Shi Ji 15: Reflections on the Rise of the Qin (~3)  
 Shi ji 86 Biographies of the Assasin-retainers  (~10)
@@ -266,7 +266,7 @@ Please continue to work on your long essay ideas.
 
 Primary Sources:
 
-Wang, Robin R. *Images of Women in Chinese Thought and Culture* (2003) See Files 
+Wang, Robin R. *Images of Women in Chinese Thought and Culture* (2003) See Files   
 Ch 8 The Zuo Commentary pp73-82  
 Ch 21 Strategems of the Warring States pp139-149  
 Ch 22 Biographies of Women pp149-162  
@@ -300,9 +300,9 @@ Ess, Hans van. ‘Praise and Slander: The Evocation of Empress Lü in the Shiji 
 11. Wang, Robin R. *Images of Women in Chinese Thought and Culture* (2003)  Ch 33 Women in the Standard Histories
 12. Kinney, Anne Behnke, trans. *Exemplary Women of Early China: The Lienü Zhuan of Liu Xiang*. Columbia University Press, 2014. Introduction (P) [Ebook](http://library.st-andrews.ac.uk/record=b3068515~S5)
 
-*or Special Theme Elective Readings: Mulan*
+*OR: Special Theme Elective Readings on Mulan*
 
-Instead of a usual elective reading, skip Raphals required reading and read this plus one Mulan category:  
+Instead of a usual elective reading, you may skip Raphals required reading and read this plus one Mulan category:  
 - Wang, Robin *Images of Women in Chinese Thought and Culture* Ch 32 The Ballad of Mulan pp250–254
 Shiamin Kwa and Wilt L. Idema ed. *Mulan: Five Versions of a Classic Chinese Legend, with Related Texts* Introduction ppxi-xxxii (see Files)
 
@@ -556,7 +556,7 @@ Consider beginning the writing process for your long essay. Are there easy secti
 
 Primary Source:
 
-*Sourcebook of Korean Civilization* Vol 2 Ch 34 Sin Ch'aeho: What is History? What shall we Study in Korean History? pp481-483
+*Sourcebook of Korean Civilization* Vol 2 Ch 34 Sin Ch'aeho: What is History? What shall we Study in Korean History? pp481-483 (See Files)
 
 Secondary Sources:
 
@@ -723,11 +723,11 @@ Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese 
 
 Barshay, Andrew E. *The Social Sciences in Modern Japan: The Marxian and Modernist Traditions* (P) Ch 3 Doubly Cruel: Marxism and the Presence of the Past in Japanese Capitalism [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2068602)
 
-Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* (P) Ch 2 Marxist History and the Ethnic Nation during the 1930s
+Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* (P)  [Ebook](http://library.st-andrews.ac.uk/record=b3127569~S5) Ch 2 Marxist History and the Ethnic Nation during the 1930s
 
 Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*  Ch 4 Universalizing Korea's Past [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)  
 
-Tikhonov, Vladimir. ‘Demystifying the Nation: The Communist Concept of Ethno-Nation in 1920s–1930s Korea’. *Cross-Currents: East Asian History and Culture Review* 7, no. 2 (2018): 474–503 
+Tikhonov, Vladimir. ‘Demystifying the Nation: The Communist Concept of Ethno-Nation in 1920s–1930s Korea’. *Cross-Currents: East Asian History and Culture Review* 7, no. 2 (2018): 474–503 [Online](https://cross-currents.berkeley.edu/e-journal/issue-28/tikhonov)
 
 Review your notes from *Oxford History*:  
 Vol 5: Ch 30 Chinese Historical Writing since 1949
@@ -738,11 +738,11 @@ Vol 5: Ch 30 Chinese Historical Writing since 1949
 2. Li, Huaiyin. *Reinventing Modern China* Ch 6 Challenging the Revolutionary Orthodoxy [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
 3. Li, Huaiyin. *Reinventing Modern China* Ch 7 From Revolution to Modernization [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
 4. Li, Huaiyin. *Reinventing Modern China* Ch 8 Master Narratives in Crisis + Conclusion [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
-5. Wang, Q. Edward. ‘Between Marxism and Nationalism: Chinese Historiography and the Soviet Influence, 1949-1963’. *Journal of Contemporary China* 9, no. 23 (1 March 2000): 95–111.
-6. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 1 National Imagery and International Marxism
-7. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 3 Rebuiding Marxist History
-8. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 4 Marxist history's search
-9. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 5 Marxist history and the "minzoku faction"
+5. Wang, Q. Edward. ‘Between Marxism and Nationalism: Chinese Historiography and the Soviet Influence, 1949-1963’. *Journal of Contemporary China* 9, no. 23 (1 March 2000): 95–111. [DOI](https://doi-org.ezproxy.st-andrews.ac.uk/10.1080/106705600112074)
+6. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 1 National Imagery and International Marxism [Ebook](http://library.st-andrews.ac.uk/record=b3127569~S5)
+7. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 3 Rebuiding Marxist History [Ebook](http://library.st-andrews.ac.uk/record=b3127569~S5)
+8. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 4 Marxist history's search [Ebook](http://library.st-andrews.ac.uk/record=b3127569~S5)
+9. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 5 Marxist history and the "minzoku faction" [Ebook](http://library.st-andrews.ac.uk/record=b3127569~S5)
 10. Weigelin-Schwiedrzik, Susanne. 'History and Truth in Chinese Marxist Historiography' in *Historical Truth, Historical Criticism, and Ideology* [Ebook](http://library.st-andrews.ac.uk/record=b2887506~S5)
 
 ### Further Reading
@@ -795,22 +795,22 @@ If you have a portion of your long essay written, consider visiting office hours
 
 ### Required Reading
 
-Kang, Sangjung. ‘The Discovery of the “Orient” and Orientalism’. In *Contemporary Japanese Thought* edited by Richard Calichman. 
+Kang, Sangjung. ‘The Discovery of the “Orient” and Orientalism’. In *Contemporary Japanese Thought* edited by Richard Calichman. [Ebook](http://library.st-andrews.ac.uk/record=b3067932~S5) 
 
 Tanaka, Stefan. *Japan's Orient: Rendering Pasts into History*. (P) New Ed edition. Berkeley: University of California Press, 1995. [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)  
-Introduction
-Ch 1 From Kangaku to Tōyōshi
+Introduction  
+Ch 1 From Kangaku to Tōyōshi  
 Ch 2 Tōyōshi: The Convergence of East and West
 
 Yoshikawa, Lisa. *Making History Matter: Kuroita Katsumi and the Construction of Imperial Japan*. (P) Ch 5 Historians' Manifest Destiny, 1927-36 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705)
 
-Miller, Owen. ‘The Idea of Stagnation in Korean Historiography from Fukuda Tokuzō to the New Right’. *Korean Histories* 2, no. 1 (2010): 3–12.
+Miller, Owen. ‘The Idea of Stagnation in Korean Historiography from Fukuda Tokuzō to the New Right’. *Korean Histories* 2, no. 1 (2010): 3–12. (See Files)
 
 ### Elective Reading
 
-1. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 11 Eminent Historians in the 1930s + Ch 12 Commission of Inquiry + Ch 13 Tsuda Sōkichi
-2. Allen, Chizuko T. ‘Ch’oe Namsŏn at the Height of Japanese Imperialism’. *Sunkyun Journal of East Asian Studies* 5, no. 1 (2005).
-3. Allen, Chizuko T. ‘Early Migrations, Conquests, and Common Ancestry: Theorizing Japanese Origins in Relation with Korea’. *Sunkyun Journal of East Asian Studies* 8, no. 1 (2008).
+1. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 11 Eminent Historians in the 1930s + Ch 12 Commission of Inquiry + Ch 13 Tsuda Sōkichi [Ebook](http://library.st-andrews.ac.uk/record=b3115173~S5)
+2. Allen, Chizuko T. ‘Ch’oe Namsŏn at the Height of Japanese Imperialism’. *Sunkyun Journal of East Asian Studies* 5, no. 1 (2005). (See Files)
+3. Allen, Chizuko T. ‘Early Migrations, Conquests, and Common Ancestry: Theorizing Japanese Origins in Relation with Korea’. *Sunkyun Journal of East Asian Studies* 8, no. 1 (2008). (See Files)
 4. Yoshikawa, Lisa. *Making History Matter* Ch 2 Resuscitating the Historical Field [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705) 
 5. Yoshikawa, Lisa. *Making History Matter* Ch 3 Entrenching the Historical Field [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705) 
 6. Yoshikawa, Lisa. *Making History Matter* Ch 4 History in Action [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705)
@@ -835,13 +835,13 @@ As you read for this week, think back to our week on the self and other in imper
 
 ### Required Reading
 
-Weigelin-Schwiedrzik, Susanne ed. *Broken Narratives: Post-Cold War History and Identity in Europe and East Asia*. BRILL, 2014.  
--  Rewriting the History of Colonialism in South Korea  
-- Colonialism and Modernity in Taiwan: Reflections on Contemporary Taiwanese Historiography  
+Weigelin-Schwiedrzik, Susanne ed. *Broken Narratives: Post-Cold War History and Identity in Europe and East Asia*. BRILL, 2014. [Ebook](http://library.st-andrews.ac.uk/record=b3127568~S5) 
+Rewriting the History of Colonialism in South Korea  
+Colonialism and Modernity in Taiwan: Reflections on Contemporary Taiwanese Historiography  
 
-Ceuster, Koen de. ‘The Nation Exorcised: The Historiography of Collaboration in South Korea’. *Korean Studies* 25, no. 2 (2001): 207–42.
+Ceuster, Koen de. ‘The Nation Exorcised: The Historiography of Collaboration in South Korea’. *Korean Studies* 25, no. 2 (2001): 207–42.[Jstor](https://www.jstor.org/stable/23718903)
 
-Weigelin-Schwiedrzik, Susanne. ‘Trauma and Memory: The Case of the Great Famine in the People’s Republic of China (1959-1961)’. *Historiography East and West* 1, no. 1 (1 January 2003): 39–67. https://doi.org/10.1163/157018603763585249.
+Weigelin-Schwiedrzik, Susanne. ‘Trauma and Memory: The Case of the Great Famine in the People’s Republic of China (1959-1961)’. *Historiography East and West* 1, no. 1 (1 January 2003): 39–67. [DOI](https://doi.org/10.1163/157018603763585249)
 
 Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*  Ch 5 Divided Sovereignty and South Korean Historiography [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)
 
@@ -859,8 +859,8 @@ Vol 5: Ch 31 Japanese Historical Writing
 4. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV Ch 6 Writing History Textbooks [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
 5. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV Ch 7 Toward Pluralism? [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
 6. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV The War over Words [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
-7. Em, Henry H. ‘“Overcoming” Korea’s Division: Narrative Strategies in Recent South Korean Historiography’. Positions: Asia Critique 1, no. 2 (1 May 1993): 450–85. https://doi.org/10.1215/10679847-1-2-450.
-8. Kim, Kyu Hyun. ‘Reflections on the Problems of Colonial Modernity and “Collaboration” in Modern Korean History’. Journal of International and Area Studies 11, no. 3 (2004): 95–111.
+7. Em, Henry H. ‘“Overcoming” Korea’s Division: Narrative Strategies in Recent South Korean Historiography’. Positions: Asia Critique 1, no. 2 (1 May 1993): 450–85. [DOI](https://doi.org/10.1215/10679847-1-2-450).
+8. Kim, Kyu Hyun. ‘Reflections on the Problems of Colonial Modernity and “Collaboration” in Modern Korean History’. Journal of International and Area Studies 11, no. 3 (2004): 95–111. [Jstor](https://www-jstor-org.ezproxy.st-andrews.ac.uk/stable/43107105)
 9. Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea* Ch 1 Remembering Colonial Korea in Postwar Japan [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
 10. Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea* Ch 3 The “East Asian History” Elective in Korean High Schools: An Attempt at Reflective Education in Transnational Space [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
 
