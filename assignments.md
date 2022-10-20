@@ -184,7 +184,7 @@ You can record your voice over slides in Apple Keynote and in Powerpoint or some
 - IMPORTANT: You must submit a movie - *not a powerpoint file with embedded sound, and not a keynote file*, but a movie file. Again: you must submit a movie file (MP4, etc.). 
 - Confirm that your movie can be viewed using the open source software [VLC](https://www.videolan.org/). 
 - After saving as a movie file, please confirm that voice is clearly audible (not a faint or unclear voice) and your slides display. If you are unable to do this, then give your presentation in person on the appropriate day relative to your topic. 
-- The recorded presentation video should be uploaded to the class files in Microsoft Teams together with a separate handout no later than 3 days before the class relevant to the content. All students should watch the presentations before class and we will make time for Q&A in class. 
+- The recorded presentation video should be uploaded to the class files in Microsoft Teams no later than 3 days before the class relevant to the content. All students should watch the presentations before class and we will make time for Q&A in class. 
 - Please name the video file you upload strictly following  this format: the week number, your first name, and a title of the text your presentation is about. For example: W5 - Sarah - The Book Title
 
 **In Person Presentation**:
