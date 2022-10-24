@@ -4,6 +4,8 @@
 
 P = Text is a candidate for presentations
 
+<a name="w1"></a>
+
 ## Week 1 - Introductions and Overview
 
 ### Required Reading
@@ -85,6 +87,8 @@ Theoretical Reflections and Differing Approaches
 - Wolf, Eric *Europe and the People Without History*
 
 \pagebreak
+
+<a name="w2"></a>
 
 ## Week 2 - The Spring and Autumn Annals and its Commentaries
 
@@ -180,6 +184,8 @@ There are no shortage of ways to engage with the Spring and Autumn annals and it
 
 \pagebreak
 
+<a name="w3"></a>
+
 ## Week 3 - The *Shiji* and Emerging Structures of Historical Writing
 
 ### Required Reading
@@ -259,6 +265,8 @@ Hinsch, Bret. *Passions of the Cut Sleeve: The Male Homosexual Tradition in Chin
 Please continue to work on your long essay ideas.
 
 \pagebreak
+
+<a name="w4"></a>
 
 ## Week 4 - Depictions of Women in Chinese Historiography
 
@@ -385,6 +393,8 @@ Deepen your reading around your essay. If you have not submitted any reflective 
 
 \pagebreak
 
+<a name="w5"></a>
+
 ## Week 5 - The Self and Other in Pre-Modern Histories
 
 ### Required Reading
@@ -463,13 +473,15 @@ This is the week when you should make the most progress on your research for you
 
 \pagebreak
 
+<a name="w7"></a>
+
 ## Week 7 - Martial Tales and History
 
 ### Required Reading
 
 Primary Sources:
 
-Roberts, Moss *Three Kingdoms: A Historical Novel Complete and Unabridged* University of California Press, 2004 (Two volume version). [Library ebook](http://library.st-andrews.ac.uk/record=b3288747~S5)  
+Roberts, Moss *Three Kingdoms: A Historical Novel Complete and Unabridged* University of California Press, 2004 (Two volume version). [Ebook](http://library.st-andrews.ac.uk/record=b3288747~S5)  
 Ch 1 Three Bold Spirits Plight Mutual Faith in the Peach Garden; Heroes and Champions Win First Honors Fighting the Yellow Scarves  
 Ch 38 Still Water Recommends Another Noted Scholar; Liu Xuande Pays Three Visits to Zhuge Liang  
 Ch 39 Kongming Determines the Realm's Division and Charts a Course; Sun Quan Leads a Naval Attack and Exacts Revenge  
@@ -478,7 +490,7 @@ Ch 90 Giant Beasts are Deployed in Kongming's Sixth Victory; Rattan Shields are 
 
 Secondary Sources:
 
-Roberts, Moss *Three Kingdoms: A Historical Novel Complete and Unabridged* University of California Press*, 2004 (Two volume version). Afterward: About Three Kingdoms pp937-979 [Ebook](http://library.st-andrews.ac.uk/record=b3288747~S5)
+Roberts, Moss *Three Kingdoms: A Historical Novel Complete and Unabridged* University of California Press, 2004 (Two volume version). Afterward: About Three Kingdoms pp937-979 [Ebook](http://library.st-andrews.ac.uk/record=b3288747~S5)
 
 Wang, Q. Edward, et al *The Many Faces of Clio: Cross-Cultural Approaches to Historiography, Essays in Honor of Georg G. Iggers* Ch 12 Time and Space in Chinese Historiography: Concepts of Centrality in the History and Literature of the Three Kingdoms (see Files)
 
@@ -494,7 +506,7 @@ Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Cult
 5. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 4 The Beginning of the End The Fall of the Han and the Opening of Three Kingdoms [Ebook](http://library.st-andrews.ac.uk/record=b3114444~S5)  
 6. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 9 From Three Kingdoms the Novel to Three Kingdoms the Television Series [Ebook](http://library.st-andrews.ac.uk/record=b3114444~S5)
 7. Besio, Kimberly Ann, and Constantine Tung, eds. *Three Kingdoms and Chinese Culture*. Ch 10 The Reception and the Place of Three Kingdoms in South Korea  [Ebook](http://library.st-andrews.ac.uk/record=b3114444~S5)
-8. Denecke, Wiebke et al *The Oxford Handbook of Classical Chinese Literature* Ch 17 Elite versus Popular Literature + Ch 18 Narrative Genres [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2495377)
+8. Denecke, Wiebke et al *The Oxford Handbook of Classical Chinese Literature* Ch 17 Elite versus Popular Literature + Ch 18 Narrative Genres [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2495377)
 9. McLaren, Anne E. ‘Challenging Official History in the Song and Yuan Dynasties: The Record of the Three Kingdoms’. In *Knowledge and Text Production in an Age of Print: China, 900-1400*, edited by Lucille Chia and Hilde de Weerdt. BRILL, 2011. [Ebook](http://library.st-andrews.ac.uk/record=b3252739~S5)
 10. Brownlee, John S. *Political Thought in Japanese Historical Writing: From Kojiki (712) to Tokushi Yoron (1712)*. Waterloo, Ont., Canada: Wilfrid Laurier University Press, 1991. Ch 6 War Tales (see Files)
 
@@ -550,6 +562,8 @@ Consider beginning the writing process for your long essay. Are there easy secti
 
 \pagebreak
 
+<a name="w8"></a>
+
 ## Week 8 - Modern Nationalist Narratives and Reconstructing the Past
 
 ### Required Reading
@@ -560,16 +574,16 @@ Primary Source:
 
 Secondary Sources:
 
-Schmid, Andre *Korea Between Empires* [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb1941003)  
+Schmid, Andre *Korea Between Empires* [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb1941003)  
 Ch 2 Decentering the Middle Kingdom  
 Ch 5 Narrating the Ethnic Nation  
 
-Pai, Hyung Il. *Constructing ‘Korean’ Origins: A Critical Review of Archaeology, Historiography, and Racial Myth in Korean State-Formation Theories* pp1-12 Nationalist Historiography section in Ch 1 The Formation of Korean Identity  [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009703)  
+Pai, Hyung Il. *Constructing ‘Korean’ Origins: A Critical Review of Archaeology, Historiography, and Racial Myth in Korean State-Formation Theories* pp1-12 Nationalist Historiography section in Ch 1 The Formation of Korean Identity  [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009703)  
 
-Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea* (P)   [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)  
+Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea* (P)   [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)  
 Ch 3 Nationalizing Korea's Past  
 
-Tikhonov, V. M. *Social Darwinism and Nationalism in Korea - The Beginnings, 1883-1910: Survival as an Ideology of Korean Modernity* (P) pp147-162 starting from National Spirit, National History, National Survival in Ch 6 Knowledge is Strength [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2022651)  
+Tikhonov, V. M. *Social Darwinism and Nationalism in Korea - The Beginnings, 1883-1910: Survival as an Ideology of Korean Modernity* (P) pp147-162 starting from National Spirit, National History, National Survival in Ch 6 Knowledge is Strength [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2022651)  
 
 Review your notes from *Oxford History*:  
 Vol 3: Ch 4 A Social History of Japanese Historical Writing; Ch 5 Writing History in Pre-Modern Korea  
@@ -585,15 +599,15 @@ Let us choose as a class a China/Japan/Korea focus and do our elective readings 
 If Japan is chosen by the class, everyone should read:
 Brownlee, John S. *Japanese Historians and the National Myths* (P) Introduction
 
-1. *Cambridge History of Japan* Ch 12 History and Nature in Eighteenth-Century Tokugawa Thought pp596-621
-2. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945: The Age of the Gods and Emperor Jinmu* Ch 1 Hayashi Razan + Ch 2 Dai Nihon Shi + Ch 3 Arai Hakuseki
-3. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 5 The Resistance of the National Scholars
-4. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 6 European Influences
-5. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 7 Beginning of Academic History 
-6. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 8 Kume Kunitake Incident
-7. *Sources of Japanese Tradition* Vol. 2, Ch 51 Thinking with the Past: History Writing in Modern Japan - New Histories in Meiji Japan pp1225-1240
-8. *Sources of Japanese Tradition* Vol. 2, Ch 51 Thinking with the Past: History Writing in Modern Japan - Writing about the Meiji Restoration pp1240-1256
-9. *Sources of Japanese Tradition* Vol. 2, Ch 51 Thinking with the Past: History Writing in Modern Japan - Alternative Histories pp1256-1267
+1. *Cambridge History of Japan* Volume 4 Early Modern Japan Ch 12 History and Nature in Eighteenth-Century Tokugawa Thought pp596-621 [Ebook](http://library.st-andrews.ac.uk/record=b2401967~S5)
+2. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945: The Age of the Gods and Emperor Jinmu* Ch 1 Hayashi Razan + Ch 2 Dai Nihon Shi + Ch 3 Arai Hakuseki [Ebook](http://library.st-andrews.ac.uk/record=b3115173~S5)
+3. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 5 The Resistance of the National Scholars [Ebook](http://library.st-andrews.ac.uk/record=b3115173~S5)
+4. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 6 European Influences [Ebook](http://library.st-andrews.ac.uk/record=b3115173~S5)
+5. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 7 Beginning of Academic History  [Ebook](http://library.st-andrews.ac.uk/record=b3115173~S5)
+6. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 8 Kume Kunitake Incident [Ebook](http://library.st-andrews.ac.uk/record=b3115173~S5)
+7. *Sources of Japanese Tradition* Vol. 2, Ch 51 Thinking with the Past: History Writing in Modern Japan - New Histories in Meiji Japan pp1225-1240 [Ebook](http://library.st-andrews.ac.uk/record=b2198917~S5)
+8. *Sources of Japanese Tradition* Vol. 2, Ch 51 Thinking with the Past: History Writing in Modern Japan - Writing about the Meiji Restoration pp1240-1256 [Ebook](http://library.st-andrews.ac.uk/record=b2198917~S5)
+9. *Sources of Japanese Tradition* Vol. 2, Ch 51 Thinking with the Past: History Writing in Modern Japan - Alternative Histories pp1256-1267 [Ebook](http://library.st-andrews.ac.uk/record=b2198917~S5)
 
 *Korea Focus:*
 
@@ -605,19 +619,19 @@ Brownlee, John S. *Japanese Historians and the National Myths* (P) Introduction
 *China Focus:*
 
 If China is chosen by the class, everyone should read:
-Wang, Q. Edward. *Inventing China through History: The May Fourth Approach to Historiography*. (P) Introduction
+Wang, Q. Edward. *Inventing China through History: The May Fourth Approach to Historiography*. (P) Introduction [Ebook](http://library.st-andrews.ac.uk/record=b3115168~S5)
 
-1. Wang, Q. Edward. *Inventing China through History: The May Fourth Approach to Historiography* Ch 2 New Horizon, New Attitude
-2. Wang, Q. Edward. *Inventing China through History* Ch 3 Scientific Inquiry
-3. Wang, Q. Edward. *Inventing China through History* Ch 4 Equivalences and Differences
-4. Wang, Q. Edward. *Inventing China through History* Ch 5 Seeking China's National Identity
-5. Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* Ch 1 Introduction, Ch 2 Origins of the Modernization Narrative [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
-6. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity: The Historical Thinking of Liang Qichao* (P) Introduction + Ch 1 History Imagined Anew
-7. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 2 Nationalist Historian
-8. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 3 Nation and Revolution
-9. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 4 Modernity as Political Discourse
-10. Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China*. Ch 2 Bifurcating Linear Histories
-11. Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China* Sun Yat-sen: The Experience of Real and Narrative Closure pp133-139 in Ch 4 Secret Brotherhood + Ch 6 Provincial Narratives
+1. Wang, Q. Edward. *Inventing China through History: The May Fourth Approach to Historiography* Ch 2 New Horizon, New Attitude [Ebook](http://library.st-andrews.ac.uk/record=b3115168~S5)
+2. Wang, Q. Edward. *Inventing China through History* Ch 3 Scientific Inquiry [Ebook](http://library.st-andrews.ac.uk/record=b3115168~S5)
+3. Wang, Q. Edward. *Inventing China through History* Ch 4 Equivalences and Differences  [Ebook](http://library.st-andrews.ac.uk/record=b3115168~S5)
+4. Wang, Q. Edward. *Inventing China through History* Ch 5 Seeking China's National Identity [Ebook](http://library.st-andrews.ac.uk/record=b3115168~S5)
+5. Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* Ch 1 Introduction, Ch 2 Origins of the Modernization Narrative [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
+6. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity: The Historical Thinking of Liang Qichao* (P) Introduction + Ch 1 History Imagined Anew [Ebook](http://library.st-andrews.ac.uk/record=b3115167~S5)
+7. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 2 Nationalist Historian [Ebook](http://library.st-andrews.ac.uk/record=b3115167~S5)
+8. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 3 Nation and Revolution [Ebook](http://library.st-andrews.ac.uk/record=b3115167~S5)
+9. Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity* Introduction + Ch 4 Modernity as Political Discourse [Ebook](http://library.st-andrews.ac.uk/record=b3115167~S5)
+10. Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China*. Ch 2 Bifurcating Linear Histories [Ebook](http://library.st-andrews.ac.uk/record=b3115169~S5)
+11. Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China* Sun Yat-sen: The Experience of Real and Narrative Closure pp133-139 in Ch 4 Secret Brotherhood + Ch 6 Provincial Narratives [Ebook](http://library.st-andrews.ac.uk/record=b3115169~S5)
 
 ### Further Reading
 
@@ -677,7 +691,7 @@ Morier-Genoud, Damien. 'Taiwanese Historiography. Towards a "Scholarly Native Hi
 
 Murthy, Viren, and Axel Schneider, eds. *The Challenge of Linear Time: Nationhood and the Politics of History in East Asia*. BRILL, 2013. (P)
 
-Pai, Hyung Il. *Constructing 'Korean' Origins: A Critical Review of Archaeology, Historiography, and Racial Myth in Korean State-Formation Theories*. Cambridge, Mass.; London: Harvard University Press, 2000. (P) [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009703)
+Pai, Hyung Il. *Constructing 'Korean' Origins: A Critical Review of Archaeology, Historiography, and Racial Myth in Korean State-Formation Theories*. Cambridge, Mass.; London: Harvard University Press, 2000. (P) [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009703)
 
 Robinson, Michael. 'National Identity and the Thought of Sin Ch'aeho: Sadaejuŭi and Chuch'e in History and Politics'. *The Journal of Korean Studies* 5 (1984): 121--42.
 
@@ -705,7 +719,7 @@ Wang, Q. Edward. *Inventing China through History: The May Fourth Approach to Hi
 
 Wong, Young-tsu. *Search for Modern Nationalism: Zhang Binglin and Revolutionary China, 1869-1936*. Oxford University Press, 1989. (P)
 
-Zarrow, Peter. 'Old Myth into New History: The Building Blocks of Liang Qichao's "New History"'. *Historiography East and West* 1, no. 2 (1 January 2003): 204--41. <https://doi.org/10.1163/157018603774004502>.
+Zarrow, Peter. 'Old Myth into New History: The Building Blocks of Liang Qichao's "New History"'. *Historiography East and West* 1, no. 2 (1 January 2003): 204--41. [DOI](https://doi.org/10.1163/157018603774004502)
 
 ### Preparation
 
@@ -715,17 +729,19 @@ As you read for this week, ask yourself how some of the processes discussed in t
 
 \pagebreak
 
+<a name="w9"></a>
+
 ## Week 9 - Marxist History in East Asia
 
 ### Required Reading
 
-Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* (P) Ch 3 Origins of the Revolutionary Narrative + Ch 4 The Making of a New Orthodoxy [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)  
+Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* (P) Ch 3 Origins of the Revolutionary Narrative + Ch 4 The Making of a New Orthodoxy [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)  
 
-Barshay, Andrew E. *The Social Sciences in Modern Japan: The Marxian and Modernist Traditions* (P) Ch 3 Doubly Cruel: Marxism and the Presence of the Past in Japanese Capitalism [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2068602)
+Barshay, Andrew E. *The Social Sciences in Modern Japan: The Marxian and Modernist Traditions* (P) Ch 3 Doubly Cruel: Marxism and the Presence of the Past in Japanese Capitalism [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2068602)
 
 Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* (P)  [Ebook](http://library.st-andrews.ac.uk/record=b3127569~S5) Ch 2 Marxist History and the Ethnic Nation during the 1930s
 
-Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*  Ch 4 Universalizing Korea's Past [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)  
+Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*  Ch 4 Universalizing Korea's Past [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)  
 
 Tikhonov, Vladimir. ‘Demystifying the Nation: The Communist Concept of Ethno-Nation in 1920s–1930s Korea’. *Cross-Currents: East Asian History and Culture Review* 7, no. 2 (2018): 474–503 [Online](https://cross-currents.berkeley.edu/e-journal/issue-28/tikhonov)
 
@@ -734,10 +750,10 @@ Vol 5: Ch 30 Chinese Historical Writing since 1949
 
 ### Elective Reading
 
-1. Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* Ch 5 Between Past and the Present [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
-2. Li, Huaiyin. *Reinventing Modern China* Ch 6 Challenging the Revolutionary Orthodoxy [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
-3. Li, Huaiyin. *Reinventing Modern China* Ch 7 From Revolution to Modernization [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
-4. Li, Huaiyin. *Reinventing Modern China* Ch 8 Master Narratives in Crisis + Conclusion [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
+1. Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing* Ch 5 Between Past and the Present [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
+2. Li, Huaiyin. *Reinventing Modern China* Ch 6 Challenging the Revolutionary Orthodoxy [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
+3. Li, Huaiyin. *Reinventing Modern China* Ch 7 From Revolution to Modernization [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
+4. Li, Huaiyin. *Reinventing Modern China* Ch 8 Master Narratives in Crisis + Conclusion [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2887500)
 5. Wang, Q. Edward. ‘Between Marxism and Nationalism: Chinese Historiography and the Soviet Influence, 1949-1963’. *Journal of Contemporary China* 9, no. 23 (1 March 2000): 95–111. [DOI](https://doi-org.ezproxy.st-andrews.ac.uk/10.1080/106705600112074)
 6. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 1 National Imagery and International Marxism [Ebook](http://library.st-andrews.ac.uk/record=b3127569~S5)
 7. Gayle, Curtis Anderson. *Marxist History and Postwar Japanese Nationalism* Ch 3 Rebuiding Marxist History [Ebook](http://library.st-andrews.ac.uk/record=b3127569~S5)
@@ -791,18 +807,20 @@ If you have a portion of your long essay written, consider visiting office hours
 
 \pagebreak
 
+<a name="w10"></a>
+
 ## Week 10 - History in the Japanese Empire
 
 ### Required Reading
 
 Kang, Sangjung. ‘The Discovery of the “Orient” and Orientalism’. In *Contemporary Japanese Thought* edited by Richard Calichman. [Ebook](http://library.st-andrews.ac.uk/record=b3067932~S5) 
 
-Tanaka, Stefan. *Japan's Orient: Rendering Pasts into History*. (P) New Ed edition. Berkeley: University of California Press, 1995. [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)  
+Tanaka, Stefan. *Japan's Orient: Rendering Pasts into History*. (P) New Ed edition. Berkeley: University of California Press, 1995. [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)  
 Introduction  
 Ch 1 From Kangaku to Tōyōshi  
 Ch 2 Tōyōshi: The Convergence of East and West
 
-Yoshikawa, Lisa. *Making History Matter: Kuroita Katsumi and the Construction of Imperial Japan*. (P) Ch 5 Historians' Manifest Destiny, 1927-36 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705)
+Yoshikawa, Lisa. *Making History Matter: Kuroita Katsumi and the Construction of Imperial Japan*. (P) Ch 5 Historians' Manifest Destiny, 1927-36 [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705)
 
 Miller, Owen. ‘The Idea of Stagnation in Korean Historiography from Fukuda Tokuzō to the New Right’. *Korean Histories* 2, no. 1 (2010): 3–12. (See Files)
 
@@ -811,13 +829,13 @@ Miller, Owen. ‘The Idea of Stagnation in Korean Historiography from Fukuda Tok
 1. Brownlee, John S. *Japanese Historians and the National Myths, 1600-1945* Ch 11 Eminent Historians in the 1930s + Ch 12 Commission of Inquiry + Ch 13 Tsuda Sōkichi [Ebook](http://library.st-andrews.ac.uk/record=b3115173~S5)
 2. Allen, Chizuko T. ‘Ch’oe Namsŏn at the Height of Japanese Imperialism’. *Sunkyun Journal of East Asian Studies* 5, no. 1 (2005). (See Files)
 3. Allen, Chizuko T. ‘Early Migrations, Conquests, and Common Ancestry: Theorizing Japanese Origins in Relation with Korea’. *Sunkyun Journal of East Asian Studies* 8, no. 1 (2008). (See Files)
-4. Yoshikawa, Lisa. *Making History Matter* Ch 2 Resuscitating the Historical Field [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705) 
-5. Yoshikawa, Lisa. *Making History Matter* Ch 3 Entrenching the Historical Field [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705) 
-6. Yoshikawa, Lisa. *Making History Matter* Ch 4 History in Action [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705)
-7. Tanaka, Stefan. *Japan's Orient* Ch 3 Shina: Separation [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
-8. Tanaka, Stefan. *Japan's Orient* Ch 4 Shina: Narration [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
-9. Tanaka, Stefan. *Japan's Orient* Ch 5: Shina: Authorization [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
-10. Tanaka, Stefan. *Japan's Orient* Ch 6: Archeology [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
+4. Yoshikawa, Lisa. *Making History Matter* Ch 2 Resuscitating the Historical Field [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705) 
+5. Yoshikawa, Lisa. *Making History Matter* Ch 3 Entrenching the Historical Field [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705) 
+6. Yoshikawa, Lisa. *Making History Matter* Ch 4 History in Action [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009705)
+7. Tanaka, Stefan. *Japan's Orient* Ch 3 Shina: Separation [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
+8. Tanaka, Stefan. *Japan's Orient* Ch 4 Shina: Narration [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
+9. Tanaka, Stefan. *Japan's Orient* Ch 5: Shina: Authorization [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
+10. Tanaka, Stefan. *Japan's Orient* Ch 6: Archeology [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2444960)
 
 ### Further Reading
 
@@ -831,6 +849,8 @@ As you read for this week, think back to our week on the self and other in imper
 
 \pagebreak
 
+<a name="w11"></a>
+
 ## Week 11 - Contested Histories in Postwar East Asia
 
 ### Required Reading
@@ -839,30 +859,30 @@ Weigelin-Schwiedrzik, Susanne ed. *Broken Narratives: Post-Cold War History and 
 Rewriting the History of Colonialism in South Korea  
 Colonialism and Modernity in Taiwan: Reflections on Contemporary Taiwanese Historiography  
 
-Ceuster, Koen de. ‘The Nation Exorcised: The Historiography of Collaboration in South Korea’. *Korean Studies* 25, no. 2 (2001): 207–42.[Jstor](https://www.jstor.org/stable/23718903)
+Ceuster, Koen de. ‘The Nation Exorcised: The Historiography of Collaboration in South Korea’. *Korean Studies* 25, no. 2 (2001): 207–42. [Jstor](https://www.jstor.org/stable/23718903)
 
 Weigelin-Schwiedrzik, Susanne. ‘Trauma and Memory: The Case of the Great Famine in the People’s Republic of China (1959-1961)’. *Historiography East and West* 1, no. 1 (1 January 2003): 39–67. [DOI](https://doi.org/10.1163/157018603763585249)
 
-Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*  Ch 5 Divided Sovereignty and South Korean Historiography [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)
+Em, Henry. *The Great Enterprise: Sovereignty and Historiography in Modern Korea*  Ch 5 Divided Sovereignty and South Korean Historiography [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb3009704)
 
 
-Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea: The Roles of Historians, Artists and Activists*. Introduction: History Wars in Postwar East Asia, 1945-2014 [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
+Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea: The Roles of Historians, Artists and Activists*. Introduction: History Wars in Postwar East Asia, 1945-2014 [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
 
 Review your notes from *Oxford History*:  
 Vol 5: Ch 31 Japanese Historical Writing
 
 ### Elective Reading
 
-1. Tsutsui, William M. ed. *A Companion to Japanese History* Ch 24 Center and Periphery in Japanese Historical Studies
-2. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia: Divided Memories* Part I Ch 1 History textbooks, divided memories, and reconciliation [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
-3. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part I Ch 2 Comparative Excerpts...on Eight Historical Issues [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
-4. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV Ch 6 Writing History Textbooks [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
-5. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV Ch 7 Toward Pluralism? [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
-6. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV The War over Words [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
+1. Tsutsui, William M. ed. *A Companion to Japanese History* Ch 24 Center and Periphery in Japanese Historical Studies [Ebook](http://library.st-andrews.ac.uk/record=b3127792~S5)
+2. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia: Divided Memories* Part I Ch 1 History textbooks, divided memories, and reconciliation [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
+3. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part I Ch 2 Comparative Excerpts...on Eight Historical Issues [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
+4. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV Ch 6 Writing History Textbooks [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
+5. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV Ch 7 Toward Pluralism? [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
+6. Shin, Gi-Wook, and Daniel C. Sneider. *History Textbooks and the Wars in Asia* Part IV The War over Words [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2897198)
 7. Em, Henry H. ‘“Overcoming” Korea’s Division: Narrative Strategies in Recent South Korean Historiography’. Positions: Asia Critique 1, no. 2 (1 May 1993): 450–85. [DOI](https://doi.org/10.1215/10679847-1-2-450).
 8. Kim, Kyu Hyun. ‘Reflections on the Problems of Colonial Modernity and “Collaboration” in Modern Korean History’. Journal of International and Area Studies 11, no. 3 (2004): 95–111. [Jstor](https://www-jstor-org.ezproxy.st-andrews.ac.uk/stable/43107105)
-9. Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea* Ch 1 Remembering Colonial Korea in Postwar Japan [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
-10. Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea* Ch 3 The “East Asian History” Elective in Korean High Schools: An Attempt at Reflective Education in Transnational Space [Library ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
+9. Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea* Ch 1 Remembering Colonial Korea in Postwar Japan [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
+10. Lewis, Michael. *‘History Wars’ and Reconciliation in Japan and Korea* Ch 3 The “East Asian History” Elective in Korean High Schools: An Attempt at Reflective Education in Transnational Space [Ebook](https://encore.st-andrews.ac.uk/iii/encore/record/C__Rb2483207)
 
 ### Further Reading
 
